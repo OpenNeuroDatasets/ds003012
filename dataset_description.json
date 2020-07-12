@@ -1,0 +1,7 @@
+{
+    "BIDSVersion": "1.2.0",
+    "License": "This dataset is made available under the Creative Commons CC0 License.",
+    "Name": "action-in-auctions",
+    "ReferencesAndLinks": ["Martinez-Saito, M., Konovalov, R., Piradov, M. A., Shestakova, A., Gutkin, B., & Klucharev, V. (2019). Action in auctions: neural and computational mechanisms of bidding behaviour. European Journal of Neuroscience, 50(8), 3327-3348. doi:10.1111/ejn.14492"],
+    "Authors": ["Martinez-Saito, M.", "Konovalov, R.", "Piradov, M. A.", "Shestakova, A.", "Gutkin, B." , "Klucharev, V."]
+}
