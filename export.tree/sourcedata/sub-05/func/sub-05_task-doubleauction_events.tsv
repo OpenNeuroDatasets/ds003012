@@ -1,0 +1,764 @@
+Scenario - fish market
+Logfile written - 03/21/2015 14:59:24
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+elizaveta_mikhedova	1	Picture	instruction	166	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	2	Nothing	main_pulse	116278	56043	1			0		other	0
+elizaveta_mikhedova	2	Pulse	8	116278	56043	1
+elizaveta_mikhedova	2	Pulse	8	138997	78762	1
+elizaveta_mikhedova	2	Pulse	8	161796	101561	1
+elizaveta_mikhedova	3	Picture	RC	176367	0	1	50057	2	0	50000	other	0
+elizaveta_mikhedova	3	Pulse	8	184675	8308	2
+elizaveta_mikhedova	3	Pulse	8	207475	31108	1
+elizaveta_mikhedova	3	Pulse	8	230194	53827	1
+elizaveta_mikhedova	3	Pulse	8	252993	76626	2
+elizaveta_mikhedova	3	Pulse	8	275873	99506	1
+elizaveta_mikhedova	3	Pulse	8	298672	122305	1
+elizaveta_mikhedova	3	Picture	Win	316526	140159	1	20023	2	140000	20000	other	0
+elizaveta_mikhedova	3	Pulse	8	321391	145024	1
+elizaveta_mikhedova	3	Pulse	8	344190	167823	2
+elizaveta_mikhedova	3	Pulse	8	367070	190703	1
+elizaveta_mikhedova	3	Response	2	379709	203342	1
+elizaveta_mikhedova	3	Response	5	381709	205342	1
+elizaveta_mikhedova	3	Response	2	382749	206382	2
+elizaveta_mikhedova	3	Response	5	384107	207740	3
+elizaveta_mikhedova	3	Response	2	386748	210381	2
+elizaveta_mikhedova	3	Response	5	387788	211421	2
+elizaveta_mikhedova	3	Response	2	388749	212382	1
+elizaveta_mikhedova	3	Response	5	389869	213502	1
+elizaveta_mikhedova	3	Pulse	8	389869	213502	1
+elizaveta_mikhedova	3	Response	2	390909	214542	1
+elizaveta_mikhedova	3	Response	5	391709	215342	1
+elizaveta_mikhedova	3	Response	2	392828	216461	1
+elizaveta_mikhedova	3	Response	5	393708	217341	2
+elizaveta_mikhedova	3	Response	2	394748	218381	1
+elizaveta_mikhedova	3	Response	5	395708	219341	2
+elizaveta_mikhedova	3	Response	2	396588	220221	1
+elizaveta_mikhedova	3	Response	5	397627	221260	2
+elizaveta_mikhedova	3	Pulse	8	412588	236221	2
+elizaveta_mikhedova	3	Response	1	423148	246781	1
+elizaveta_mikhedova	3	Pulse	8	435467	259100	2
+elizaveta_mikhedova	3	Response	4	435547	259180	1
+elizaveta_mikhedova	3	Response	1	437227	260860	1
+elizaveta_mikhedova	3	Response	4	438587	262220	1
+elizaveta_mikhedova	3	Response	1	439787	263420	1
+elizaveta_mikhedova	3	Response	4	441147	264780	1
+elizaveta_mikhedova	3	Response	1	442030	265663	1
+elizaveta_mikhedova	3	Response	4	443547	267180	1
+elizaveta_mikhedova	3	Response	1	444107	267740	2
+elizaveta_mikhedova	3	Response	4	445627	269260	1
+elizaveta_mikhedova	3	Pulse	8	458267	281900	1
+elizaveta_mikhedova	3	Response	3	475706	299339	2
+elizaveta_mikhedova	4	Picture	Your_decision: 4 Responder1: 4.2 Responder2: 3.5	476208	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	4	Pulse	8	481066	4858	1
+elizaveta_mikhedova	4	Pulse	8	503786	27578	1
+elizaveta_mikhedova	4	Pulse	8	526665	50457	1
+elizaveta_mikhedova	4	Pulse	8	549464	73256	1
+elizaveta_mikhedova	4	Pulse	8	572183	95975	2
+elizaveta_mikhedova	4	Pulse	8	594983	118775	2
+elizaveta_mikhedova	5	Picture	UG	596345	0	1	50057	2	0	50000	other	0
+elizaveta_mikhedova	5	Pulse	8	617862	21517	1
+elizaveta_mikhedova	5	Pulse	8	640661	44316	2
+elizaveta_mikhedova	5	Pulse	8	663381	67036	1
+elizaveta_mikhedova	5	Pulse	8	686180	89835	1
+elizaveta_mikhedova	5	Pulse	8	709059	112714	1
+elizaveta_mikhedova	5	Pulse	8	731858	135513	2
+elizaveta_mikhedova	5	Picture	Win	736505	140160	1	20023	2	140000	20000	other	0
+elizaveta_mikhedova	5	Pulse	8	754578	158233	1
+elizaveta_mikhedova	5	Pulse	8	777377	181032	1
+elizaveta_mikhedova	5	Response	1	784256	187911	1
+elizaveta_mikhedova	5	Pulse	8	800256	203911	1
+elizaveta_mikhedova	5	Response	4	801456	205111	1
+elizaveta_mikhedova	5	Pulse	8	823056	226711	1
+elizaveta_mikhedova	5	Response	2	825855	229510	1
+elizaveta_mikhedova	5	Response	5	827610	231265	7
+elizaveta_mikhedova	5	Response	3	842014	245669	1
+elizaveta_mikhedova	6	Picture	Your_decision: 3.9 Responder: 4.5	842625	0	2	60069	3	0	60000	other	0
+elizaveta_mikhedova	6	Pulse	8	845775	3150	1
+elizaveta_mikhedova	6	Pulse	8	868574	25949	1
+elizaveta_mikhedova	6	Pulse	8	891453	48828	2
+elizaveta_mikhedova	6	Pulse	8	914253	71628	1
+elizaveta_mikhedova	6	Pulse	8	936972	94347	1
+elizaveta_mikhedova	6	Pulse	8	959771	117146	2
+elizaveta_mikhedova	7	Picture	PC	962763	0	1	50057	2	0	50000	other	0
+elizaveta_mikhedova	7	Pulse	8	982651	19888	1
+elizaveta_mikhedova	7	Pulse	8	1005450	42687	1
+elizaveta_mikhedova	7	Pulse	8	1028169	65406	1
+elizaveta_mikhedova	7	Pulse	8	1050969	88206	1
+elizaveta_mikhedova	7	Pulse	8	1073848	111085	1
+elizaveta_mikhedova	7	Pulse	8	1096646	133883	2
+elizaveta_mikhedova	7	Picture	Win	1102922	140159	1	20023	2	140000	20000	other	0
+elizaveta_mikhedova	7	Pulse	8	1119366	156603	2
+elizaveta_mikhedova	7	Pulse	8	1142246	179483	1
+elizaveta_mikhedova	7	Response	1	1153125	190362	2
+elizaveta_mikhedova	7	Response	4	1161445	198682	1
+elizaveta_mikhedova	7	Pulse	8	1165045	202282	1
+elizaveta_mikhedova	7	Response	3	1186564	223801	1
+elizaveta_mikhedova	7	Pulse	8	1187844	225081	1
+elizaveta_mikhedova	8	Picture	Your_decision: 5.5 Proposer2: 4.3 Responder1: 6.5	1202870	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	8	Pulse	8	1210564	7694	1
+elizaveta_mikhedova	8	Pulse	8	1233443	30573	1
+elizaveta_mikhedova	8	Pulse	8	1256242	53372	1
+elizaveta_mikhedova	8	Pulse	8	1278961	76091	2
+elizaveta_mikhedova	8	Pulse	8	1301761	98891	1
+elizaveta_mikhedova	8	Pulse	8	1324640	121770	1
+elizaveta_mikhedova	9	Picture	RC	1343029	0	1	70080	2	0	70000	other	0
+elizaveta_mikhedova	9	Pulse	8	1347439	4410	1
+elizaveta_mikhedova	9	Pulse	8	1370159	27130	1
+elizaveta_mikhedova	9	Pulse	8	1392958	49929	1
+elizaveta_mikhedova	9	Pulse	8	1415837	72808	1
+elizaveta_mikhedova	9	Pulse	8	1438636	95607	2
+elizaveta_mikhedova	9	Pulse	8	1461354	118325	3
+elizaveta_mikhedova	9	Picture	Win	1483189	140160	1	20023	2	140000	20000	other	0
+elizaveta_mikhedova	9	Pulse	8	1484155	141126	1
+elizaveta_mikhedova	9	Pulse	8	1507034	164005	1
+elizaveta_mikhedova	9	Pulse	8	1529834	186805	1
+elizaveta_mikhedova	9	Pulse	8	1552553	209524	1
+elizaveta_mikhedova	9	Pulse	8	1575352	232323	2
+elizaveta_mikhedova	9	Pulse	8	1598232	255203	1
+elizaveta_mikhedova	9	Pulse	8	1621031	278002	1
+elizaveta_mikhedova	9	Response	2	1627830	284801	1
+elizaveta_mikhedova	9	Response	5	1629750	286721	1
+elizaveta_mikhedova	9	Pulse	8	1643750	300721	1
+elizaveta_mikhedova	9	Response	3	1643829	300800	2
+elizaveta_mikhedova	10	Picture	Your_decision: 3.3 Responder1: 2.7 Responder2: 2.9	1653049	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	10	Pulse	8	1666549	13500	2
+elizaveta_mikhedova	10	Pulse	8	1689429	36380	1
+elizaveta_mikhedova	10	Pulse	8	1712228	59179	1
+elizaveta_mikhedova	10	Pulse	8	1734947	81898	1
+elizaveta_mikhedova	10	Pulse	8	1757746	104697	2
+elizaveta_mikhedova	10	Pulse	8	1780626	127577	1
+elizaveta_mikhedova	11	Picture	UG	1793209	0	1	70080	2	0	70000	other	0
+elizaveta_mikhedova	11	Pulse	8	1803425	10216	1
+elizaveta_mikhedova	11	Pulse	8	1826144	32935	2
+elizaveta_mikhedova	11	Pulse	8	1849024	55815	1
+elizaveta_mikhedova	11	Pulse	8	1871823	78614	1
+elizaveta_mikhedova	11	Pulse	8	1894622	101413	1
+elizaveta_mikhedova	11	Pulse	8	1917341	124132	2
+elizaveta_mikhedova	11	Picture	Win	1933369	140160	1	20022	2	140000	20000	other	0
+elizaveta_mikhedova	11	Pulse	8	1940221	147012	1
+elizaveta_mikhedova	11	Pulse	8	1963020	169811	1
+elizaveta_mikhedova	11	Pulse	8	1985739	192530	1
+elizaveta_mikhedova	11	Pulse	8	2008539	215330	1
+elizaveta_mikhedova	11	Pulse	8	2031418	238209	1
+elizaveta_mikhedova	11	Response	3	2046377	253168	1
+elizaveta_mikhedova	11	Pulse	8	2054217	261008	1
+elizaveta_mikhedova	11	Pulse	8	2076936	283727	2
+elizaveta_mikhedova	11	Pulse	8	2099736	306527	1
+elizaveta_mikhedova	12	Picture	Your_decision: 7.3 Responder: 4.8	2103229	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	12	Pulse	8	2122615	19386	2
+elizaveta_mikhedova	12	Pulse	8	2145414	42185	2
+elizaveta_mikhedova	13	Picture	PC	2243388	0	1	70080	2	0	70000	other	0
+elizaveta_mikhedova	13	Picture	Loss	2383548	140160	1	20023	2	140000	20000	other	0
+elizaveta_mikhedova	14	Picture	Miss	2473484	0	1	20023	2	0	20000	other	0
+elizaveta_mikhedova	15	Picture	RC	2593621	0	1	90102	2	0	90000	other	0
+elizaveta_mikhedova	15	Picture	Win	2743792	150171	1	19856	2	150000	20000	other	0
+elizaveta_mikhedova	15	Response	3	2778275	184654	2
+elizaveta_mikhedova	16	Picture	Your_decision: 5.2 Responder1: 4.7 Responder2: 4.5	2843739	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	17	Picture	UG	2983899	0	1	90102	2	0	90000	other	0
+elizaveta_mikhedova	17	Picture	Win	3134070	150171	1	19856	2	150000	20000	other	0
+elizaveta_mikhedova	17	Response	1	3179941	196042	2
+elizaveta_mikhedova	17	Response	4	3187138	203239	4
+elizaveta_mikhedova	17	Response	1	3198101	214202	1
+elizaveta_mikhedova	17	Response	4	3199701	215802	1
+elizaveta_mikhedova	17	Response	1	3203061	219162	1
+elizaveta_mikhedova	17	Response	4	3204101	220202	1
+elizaveta_mikhedova	17	Response	2	3221541	237642	1
+elizaveta_mikhedova	17	Response	5	3223861	239962	1
+elizaveta_mikhedova	17	Response	3	3236340	252441	1
+elizaveta_mikhedova	18	Picture	Your_decision: 4.6 Responder: 0.1	3236854	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	19	Picture	PC	3377013	0	1	90103	2	0	90000	other	0
+elizaveta_mikhedova	19	Picture	Win	3527184	150171	1	19856	2	150000	20000	other	0
+elizaveta_mikhedova	19	Response	2	3567770	190757	1
+elizaveta_mikhedova	19	Response	5	3570090	193077	1
+elizaveta_mikhedova	19	Response	1	3582409	205396	1
+elizaveta_mikhedova	19	Response	4	3584250	207237	5
+elizaveta_mikhedova	19	Response	1	3585209	208196	1
+elizaveta_mikhedova	19	Response	4	3586569	209556	1
+elizaveta_mikhedova	19	Response	1	3592809	215796	1
+elizaveta_mikhedova	19	Response	4	3594248	217235	2
+elizaveta_mikhedova	19	Response	2	3601449	224436	1
+elizaveta_mikhedova	19	Response	5	3603369	226356	1
+elizaveta_mikhedova	19	Response	3	3610888	233875	1
+elizaveta_mikhedova	20	Picture	Your_decision: 4.3 Proposer2: 5.7 Responder1: 5	3627132	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	21	Picture	RC	3737257	0	1	70080	2	0	70000	other	0
+elizaveta_mikhedova	21	Picture	Win	3887428	150171	1	20023	2	150000	20000	other	0
+elizaveta_mikhedova	21	Response	1	3925038	187781	1
+elizaveta_mikhedova	21	Response	4	3941678	204421	1
+elizaveta_mikhedova	21	Response	1	3943993	206736	8
+elizaveta_mikhedova	21	Response	4	3945438	208181	1
+elizaveta_mikhedova	21	Response	1	3946477	209220	2
+elizaveta_mikhedova	21	Response	4	3947678	210421	1
+elizaveta_mikhedova	21	Response	1	3949117	211860	2
+elizaveta_mikhedova	21	Response	4	3950077	212820	1
+elizaveta_mikhedova	21	Response	3	3967197	229940	1
+elizaveta_mikhedova	22	Picture	Your_decision: 2.9 Responder1: 3 Responder2: 3.5	3967853	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	23	Picture	UG	4077979	0	1	70080	2	0	70000	other	0
+elizaveta_mikhedova	23	Picture	Win	4228150	150171	1	20023	2	150000	20000	other	0
+elizaveta_mikhedova	23	Response	2	4291267	213288	1
+elizaveta_mikhedova	23	Response	5	4293347	215368	1
+elizaveta_mikhedova	23	Response	2	4295587	217608	2
+elizaveta_mikhedova	23	Response	5	4297187	219208	1
+elizaveta_mikhedova	23	Response	3	4308466	230487	1
+elizaveta_mikhedova	24	Picture	Your_decision: 3.2 Responder: 3.9	4309075	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	25	Picture	PC	4419201	0	1	70080	2	0	70000	other	0
+elizaveta_mikhedova	25	Picture	Win	4569372	150171	1	20023	2	150000	20000	other	0
+elizaveta_mikhedova	25	Response	1	4637576	218375	1
+elizaveta_mikhedova	25	Response	4	4639576	220375	1
+elizaveta_mikhedova	25	Response	2	4650298	231097	3
+elizaveta_mikhedova	25	Response	5	4651576	232375	1
+elizaveta_mikhedova	25	Response	1	4658056	238855	1
+elizaveta_mikhedova	25	Response	4	4659809	240608	9
+elizaveta_mikhedova	25	Response	3	4667495	248294	2
+elizaveta_mikhedova	26	Picture	Your_decision: 7 Proposer2: 7.7 Responder1: 2.8	4668151	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	27	Picture	RC	4808311	0	1	80091	2	0	80000	other	0
+elizaveta_mikhedova	27	Picture	Win	4978505	170194	1	20023	2	170000	20000	other	0
+elizaveta_mikhedova	27	Response	3	5089402	281091	1
+elizaveta_mikhedova	28	Picture	Your_decision: 4.1 Responder1: 5.3 Responder2: 0.1	5108486	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	29	Picture	UG	5248646	0	1	80091	2	0	80000	other	0
+elizaveta_mikhedova	29	Picture	Win	5418840	170194	1	20023	2	170000	20000	other	0
+elizaveta_mikhedova	29	Response	2	5438750	190104	2
+elizaveta_mikhedova	29	Response	5	5440831	192185	1
+elizaveta_mikhedova	29	Response	2	5497949	249303	1
+elizaveta_mikhedova	29	Response	5	5499791	251145	1
+elizaveta_mikhedova	29	Response	1	5504107	255461	4
+elizaveta_mikhedova	29	Response	4	5507549	258903	1
+elizaveta_mikhedova	29	Response	1	5508429	259783	1
+elizaveta_mikhedova	29	Response	4	5509389	260743	1
+elizaveta_mikhedova	29	Response	2	5516589	267943	1
+elizaveta_mikhedova	29	Response	5	5518029	269383	1
+elizaveta_mikhedova	29	Response	3	5530829	282183	1
+elizaveta_mikhedova	30	Picture	Your_decision: 5.3 Responder: 5	5548821	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	30	Response	2	5588986	40165	1
+elizaveta_mikhedova	30	Response	5	5590746	41925	1
+elizaveta_mikhedova	30	Response	1	5594426	45605	1
+elizaveta_mikhedova	30	Response	4	5596266	47445	1
+elizaveta_mikhedova	30	Response	3	5600826	52005	1
+elizaveta_mikhedova	31	Picture	PC	5688981	0	1	80091	2	0	80000	other	0
+elizaveta_mikhedova	31	Picture	Loss	5859175	170194	1	20023	2	170000	20000	other	0
+elizaveta_mikhedova	32	Picture	Miss	5909065	0	1	20023	2	0	20000	other	0
+elizaveta_mikhedova	33	Picture	RC	6029202	0	1	80091	2	0	80000	other	0
+elizaveta_mikhedova	33	Response	2	6045612	16410	1
+elizaveta_mikhedova	33	Response	5	6047532	18330	1
+elizaveta_mikhedova	33	Response	1	6051132	21930	1
+elizaveta_mikhedova	33	Response	4	6053132	23930	1
+elizaveta_mikhedova	33	Response	3	6061051	31849	1
+elizaveta_mikhedova	33	Picture	Win	6159350	130148	1	20023	2	130000	20000	other	0
+elizaveta_mikhedova	33	Response	1	6281125	251923	1
+elizaveta_mikhedova	33	Response	4	6283125	253923	1
+elizaveta_mikhedova	33	Response	2	6286645	257443	1
+elizaveta_mikhedova	33	Response	5	6287764	258562	2
+elizaveta_mikhedova	33	Response	2	6288964	259762	2
+elizaveta_mikhedova	33	Response	5	6290164	260962	2
+elizaveta_mikhedova	33	Response	2	6291365	262163	1
+elizaveta_mikhedova	33	Response	5	6292885	263683	2
+elizaveta_mikhedova	33	Response	2	6294324	265122	1
+elizaveta_mikhedova	33	Response	5	6295604	266402	1
+elizaveta_mikhedova	33	Response	3	6309521	280319	5
+elizaveta_mikhedova	34	Picture	Your_decision: 6.9 Responder1: 6.1 Responder2: 0.3	6339222	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	35	Picture	UG	6479381	0	1	80092	2	0	80000	other	0
+elizaveta_mikhedova	35	Picture	Loss	6609530	130149	1	20023	2	130000	20000	other	0
+elizaveta_mikhedova	36	Picture	Miss	6709477	0	1	20023	2	0	20000	other	0
+elizaveta_mikhedova	37	Picture	PC	6829614	0	1	80091	2	0	80000	other	0
+elizaveta_mikhedova	37	Picture	Win	6959762	130148	1	20023	2	130000	20000	other	0
+elizaveta_mikhedova	37	Response	2	7092300	262686	1
+elizaveta_mikhedova	37	Response	5	7094299	264685	2
+elizaveta_mikhedova	37	Response	2	7096860	267246	1
+elizaveta_mikhedova	37	Response	5	7098699	269085	1
+elizaveta_mikhedova	37	Response	3	7129018	299404	1
+elizaveta_mikhedova	38	Picture	Your_decision: 5.1 Proposer2: 5.7 Responder1: 5	7139634	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	39	Picture	RC	7269782	0	1	70080	2	0	70000	other	0
+elizaveta_mikhedova	39	Picture	Win	7409942	140160	1	20022	3	140000	20000	other	0
+elizaveta_mikhedova	39	Response	1	7501007	231225	1
+elizaveta_mikhedova	39	Response	4	7502687	232905	1
+elizaveta_mikhedova	39	Response	1	7503565	233783	3
+elizaveta_mikhedova	39	Response	4	7504847	235065	1
+elizaveta_mikhedova	39	Response	1	7505408	235626	1
+elizaveta_mikhedova	39	Response	4	7506847	237065	1
+elizaveta_mikhedova	39	Response	3	7545165	275383	2
+elizaveta_mikhedova	40	Picture	Your_decision: 4.7 Responder1: 3.8 Responder2: 4.3	7549935	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	41	Picture	UG	7680083	0	1	70080	2	0	70000	other	0
+elizaveta_mikhedova	41	Picture	Win	7820242	140159	2	20023	3	140000	20000	other	0
+elizaveta_mikhedova	41	Response	1	7909154	229071	1
+elizaveta_mikhedova	41	Response	4	7911154	231071	1
+elizaveta_mikhedova	41	Response	1	7912594	232511	1
+elizaveta_mikhedova	41	Response	4	7914514	234431	1
+elizaveta_mikhedova	41	Response	2	7933474	253391	1
+elizaveta_mikhedova	41	Response	5	7935074	254991	1
+elizaveta_mikhedova	41	Response	1	7941551	261468	4
+elizaveta_mikhedova	41	Response	4	7943075	262992	1
+elizaveta_mikhedova	41	Response	1	7948833	268750	1
+elizaveta_mikhedova	41	Response	4	7949873	269790	2
+elizaveta_mikhedova	41	Response	3	7955632	275549	2
+elizaveta_mikhedova	42	Picture	Your_decision: 5.5 Responder: 5	7960235	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	43	Picture	PC	8090384	0	1	70079	3	0	70000	other	0
+elizaveta_mikhedova	43	Picture	Win	8230543	140159	1	20023	2	140000	20000	other	0
+elizaveta_mikhedova	43	Response	2	8337541	247157	1
+elizaveta_mikhedova	43	Response	5	8339701	249317	1
+elizaveta_mikhedova	43	Response	1	8350018	259634	4
+elizaveta_mikhedova	43	Response	4	8351701	261317	1
+elizaveta_mikhedova	43	Response	2	8356661	266277	1
+elizaveta_mikhedova	43	Response	5	8358580	268196	1
+elizaveta_mikhedova	43	Response	3	8363300	272916	1
+elizaveta_mikhedova	44	Picture	Your_decision: 5.9 Proposer2: 7.6 Responder1: 5	8370536	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	45	Picture	RC	8520707	0	1	80091	3	0	80000	other	0
+elizaveta_mikhedova	45	Picture	Loss	8650856	130149	1	20022	2	130000	20000	other	0
+elizaveta_mikhedova	46	Picture	Miss	8730780	0	1	20023	2	0	20000	other	0
+elizaveta_mikhedova	47	Picture	UG	8860928	0	1	80091	3	0	80000	other	0
+elizaveta_mikhedova	47	Picture	Win	8991077	130149	1	20022	2	130000	20000	other	0
+elizaveta_mikhedova	47	Response	1	9094957	234029	1
+elizaveta_mikhedova	47	Response	4	9096877	235949	2
+elizaveta_mikhedova	47	Response	3	9110394	249466	4
+elizaveta_mikhedova	48	Picture	Your_decision: 6.1 Responder: 4	9161104	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	49	Picture	PC	9311275	0	1	80091	2	0	80000	other	0
+elizaveta_mikhedova	49	Picture	Win	9441423	130148	1	20023	2	130000	20000	other	0
+elizaveta_mikhedova	49	Response	2	9530783	219508	2
+elizaveta_mikhedova	49	Response	5	9538063	226788	1
+elizaveta_mikhedova	49	Response	2	9541023	229748	2
+elizaveta_mikhedova	49	Response	5	9542542	231267	2
+elizaveta_mikhedova	49	Response	2	9544303	233028	1
+elizaveta_mikhedova	49	Response	5	9546543	235268	1
+elizaveta_mikhedova	49	Response	2	9548144	236869	1
+elizaveta_mikhedova	49	Response	5	9550381	239106	3
+elizaveta_mikhedova	49	Response	2	9556863	245588	1
+elizaveta_mikhedova	49	Response	5	9558863	247588	1
+elizaveta_mikhedova	49	Response	2	9559903	248628	1
+elizaveta_mikhedova	49	Response	5	9561423	250148	1
+elizaveta_mikhedova	49	Response	2	9564222	252947	2
+elizaveta_mikhedova	49	Response	5	9566223	254948	1
+elizaveta_mikhedova	49	Response	2	9574942	263667	1
+elizaveta_mikhedova	49	Response	5	9577182	265907	1
+elizaveta_mikhedova	49	Response	1	9583662	272387	1
+elizaveta_mikhedova	49	Response	4	9585582	274307	2
+elizaveta_mikhedova	49	Response	3	9602541	291266	1
+elizaveta_mikhedova	50	Picture	Your_decision: 7.2 Proposer2: 6.3 Responder1: 0.1	9611450	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	51	Picture	RC	9721575	0	2	90103	3	0	90000	other	0
+elizaveta_mikhedova	51	Picture	Win	9861735	140160	1	20023	2	140000	20000	other	0
+elizaveta_mikhedova	51	Response	1	9959330	237755	1
+elizaveta_mikhedova	51	Response	4	9961170	239595	1
+elizaveta_mikhedova	51	Response	1	9963730	242155	1
+elizaveta_mikhedova	51	Response	4	9965410	243835	1
+elizaveta_mikhedova	51	Response	1	9986450	264875	1
+elizaveta_mikhedova	51	Response	4	9987329	265754	1
+elizaveta_mikhedova	51	Response	3	9998369	276794	1
+elizaveta_mikhedova	52	Picture	Your_decision: 3 Responder1: 3.2 Responder2: 2	9998891	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	53	Picture	UG	10109017	0	1	90103	2	0	90000	other	0
+elizaveta_mikhedova	53	Picture	Loss	10249177	140160	1	20022	2	140000	20000	other	0
+elizaveta_mikhedova	54	Picture	Miss	10329101	0	1	20023	2	0	20000	other	0
+elizaveta_mikhedova	55	Picture	PC	10419204	0	1	90102	2	0	90000	other	0
+elizaveta_mikhedova	55	Picture	Win	10559363	140159	1	20023	2	140000	20000	other	0
+elizaveta_mikhedova	55	Response	1	10657308	238104	1
+elizaveta_mikhedova	55	Response	4	10660109	240905	1
+elizaveta_mikhedova	55	Response	2	10667628	248424	1
+elizaveta_mikhedova	55	Response	5	10669788	250584	1
+elizaveta_mikhedova	55	Response	2	10670988	251784	1
+elizaveta_mikhedova	55	Response	5	10673308	254104	1
+elizaveta_mikhedova	55	Response	2	10674668	255464	2
+elizaveta_mikhedova	55	Response	5	10676664	257460	5
+elizaveta_mikhedova	55	Response	2	10683627	264423	2
+elizaveta_mikhedova	55	Response	5	10685787	266583	2
+elizaveta_mikhedova	55	Response	1	10694027	274823	2
+elizaveta_mikhedova	55	Response	4	10695468	276264	1
+elizaveta_mikhedova	55	Response	1	10697227	278023	1
+elizaveta_mikhedova	55	Response	4	10698267	279063	1
+elizaveta_mikhedova	55	Response	1	10708188	288984	1
+elizaveta_mikhedova	55	Response	4	10709547	290343	1
+elizaveta_mikhedova	55	Response	2	10717866	298662	2
+elizaveta_mikhedova	55	Response	5	10719547	300343	1
+elizaveta_mikhedova	55	Response	3	10724826	305622	1
+elizaveta_mikhedova	56	Picture	Your_decision: 7.6 Proposer2: 8.2 Responder1: 1	10725386	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	57	Picture	RC	10865546	0	1	50057	2	0	50000	other	0
+elizaveta_mikhedova	57	Picture	Win	10995694	130148	1	20023	2	130000	20000	other	0
+elizaveta_mikhedova	57	Response	1	11065296	199750	1
+elizaveta_mikhedova	57	Response	4	11080255	214709	1
+elizaveta_mikhedova	57	Response	1	11084335	218789	1
+elizaveta_mikhedova	57	Response	4	11085775	220229	1
+elizaveta_mikhedova	57	Response	1	11086575	221029	1
+elizaveta_mikhedova	57	Response	4	11087775	222229	1
+elizaveta_mikhedova	57	Response	1	11088735	223189	1
+elizaveta_mikhedova	57	Response	4	11089695	224149	1
+elizaveta_mikhedova	57	Response	1	11090495	224949	1
+elizaveta_mikhedova	57	Response	4	11091696	226150	1
+elizaveta_mikhedova	57	Response	2	11112575	247029	1
+elizaveta_mikhedova	57	Response	5	11114974	249428	1
+elizaveta_mikhedova	57	Response	1	11119375	253829	1
+elizaveta_mikhedova	57	Response	4	11120814	255268	1
+elizaveta_mikhedova	57	Response	1	11121853	256307	2
+elizaveta_mikhedova	57	Response	4	11122734	257188	2
+elizaveta_mikhedova	57	Response	3	11130734	265188	1
+elizaveta_mikhedova	58	Picture	Your_decision: 2.9 Responder1: 3.2 Responder2: 2	11131348	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	59	Picture	UG	11271508	0	1	50057	2	0	50000	other	0
+elizaveta_mikhedova	59	Picture	Win	11401656	130148	1	20023	2	130000	20000	other	0
+elizaveta_mikhedova	59	Response	2	11476075	204567	9
+elizaveta_mikhedova	59	Response	5	11477843	206335	1
+elizaveta_mikhedova	59	Response	3	11489522	218014	1
+elizaveta_mikhedova	60	Picture	Your_decision: 4.2 Responder: 4.5	11531638	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	61	Picture	PC	11671797	0	2	50058	3	0	50000	other	0
+elizaveta_mikhedova	61	Picture	Loss	11801946	130149	1	20023	2	130000	20000	other	0
+elizaveta_mikhedova	62	Picture	Miss	11851836	0	1	20023	2	0	20000	other	0
+elizaveta_mikhedova	63	Picture	RC	11981984	0	1	50057	2	0	50000	other	0
+elizaveta_mikhedova	63	Picture	Win	12092110	110126	1	20023	2	110000	20000	other	0
+elizaveta_mikhedova	63	Response	1	12243259	261275	1
+elizaveta_mikhedova	63	Response	4	12250219	268235	1
+elizaveta_mikhedova	63	Response	1	12252059	270075	1
+elizaveta_mikhedova	63	Response	4	12258137	276153	4
+elizaveta_mikhedova	63	Response	3	12275657	293673	2
+elizaveta_mikhedova	64	Picture	Your_decision: 3.3 Responder1: 1 Responder2: 2	12322038	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	65	Picture	UG	12472209	0	1	50057	3	0	50000	other	0
+elizaveta_mikhedova	65	Picture	Win	12582335	110126	1	20023	2	110000	20000	other	0
+elizaveta_mikhedova	65	Response	3	12762683	290474	1
+elizaveta_mikhedova	66	Picture	Your_decision: 3.2 Responder: 0	12812264	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	67	Picture	PC	12962435	0	1	50057	2	0	50000	other	0
+elizaveta_mikhedova	67	Picture	Win	13072560	110125	1	20023	2	110000	20000	other	0
+elizaveta_mikhedova	67	Response	1	13244508	282073	1
+elizaveta_mikhedova	67	Response	4	13246828	284393	1
+elizaveta_mikhedova	67	Response	1	13251947	289512	2
+elizaveta_mikhedova	67	Response	4	13252748	290313	1
+elizaveta_mikhedova	67	Response	2	13259147	296712	1
+elizaveta_mikhedova	67	Response	5	13279467	317032	2
+elizaveta_mikhedova	67	Response	2	13285303	322868	5
+elizaveta_mikhedova	67	Response	5	13288827	326392	2
+elizaveta_mikhedova	67	Response	2	13294026	331591	1
+elizaveta_mikhedova	67	Response	5	13295706	333271	1
+elizaveta_mikhedova	67	Response	2	13298026	335591	1
+elizaveta_mikhedova	67	Response	5	13299786	337351	1
+elizaveta_mikhedova	67	Response	2	13300666	338231	1
+elizaveta_mikhedova	67	Response	5	13302186	339751	1
+elizaveta_mikhedova	67	Response	3	13307626	345191	1
+elizaveta_mikhedova	68	Picture	Your_decision: 6.6 Proposer2: 6.3 Responder1: 5.8	13308162	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	69	Picture	RC	13428299	0	1	70080	2	0	70000	other	0
+elizaveta_mikhedova	69	Picture	Win	13588481	160182	1	20023	2	160000	20000	other	0
+elizaveta_mikhedova	69	Response	1	13645855	217556	2
+elizaveta_mikhedova	69	Response	4	13656733	228434	3
+elizaveta_mikhedova	69	Response	1	13659216	230917	1
+elizaveta_mikhedova	69	Response	4	13661135	232836	1
+elizaveta_mikhedova	69	Response	1	13662015	233716	1
+elizaveta_mikhedova	69	Response	4	13663375	235076	1
+elizaveta_mikhedova	69	Response	1	13666334	238035	2
+elizaveta_mikhedova	69	Response	4	13667935	239636	1
+elizaveta_mikhedova	69	Response	1	13669374	241075	2
+elizaveta_mikhedova	69	Response	4	13670654	242355	1
+elizaveta_mikhedova	69	Response	1	13695694	267395	1
+elizaveta_mikhedova	69	Response	4	13697454	269155	1
+elizaveta_mikhedova	69	Response	1	13705374	277075	1
+elizaveta_mikhedova	69	Response	4	13707053	278754	1
+elizaveta_mikhedova	69	Response	1	13712253	283954	1
+elizaveta_mikhedova	69	Response	4	13714093	285794	1
+elizaveta_mikhedova	69	Response	2	13721373	293074	1
+elizaveta_mikhedova	69	Response	5	13723053	294754	1
+elizaveta_mikhedova	69	Response	3	13730093	301794	1
+elizaveta_mikhedova	70	Picture	Your_decision: 2 Responder1: 3 Responder2: 4	13730643	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	70	Response	1	13784731	54088	1
+elizaveta_mikhedova	70	Response	4	13786730	56087	2
+elizaveta_mikhedova	71	Picture	UG	13850780	0	1	70080	2	0	70000	other	0
+elizaveta_mikhedova	71	Picture	Win	14010963	160183	1	20022	3	160000	20000	other	0
+elizaveta_mikhedova	71	Response	2	14063043	212263	1
+elizaveta_mikhedova	71	Response	5	14065201	214421	3
+elizaveta_mikhedova	71	Response	2	14070482	219702	1
+elizaveta_mikhedova	71	Response	5	14072402	221622	1
+elizaveta_mikhedova	71	Response	3	14082242	231462	1
+elizaveta_mikhedova	72	Picture	Your_decision: 4.8 Responder: 0	14100898	0	2	60069	3	0	60000	other	0
+elizaveta_mikhedova	73	Picture	PC	14221035	0	1	70080	2	0	70000	other	0
+elizaveta_mikhedova	73	Picture	Win	14381218	160183	1	20023	2	160000	20000	other	0
+elizaveta_mikhedova	73	Response	2	14417991	196956	1
+elizaveta_mikhedova	73	Response	5	14432231	211196	1
+elizaveta_mikhedova	73	Response	2	14436789	215754	3
+elizaveta_mikhedova	73	Response	5	14444871	223836	1
+elizaveta_mikhedova	73	Response	3	14455190	234155	1
+elizaveta_mikhedova	74	Picture	Your_decision: 7.5 Proposer2: 8.4 Responder1: 9	14471154	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	75	Picture	RC	14601302	0	1	70080	2	0	70000	other	0
+elizaveta_mikhedova	75	Picture	Win	14721439	120137	1	20023	2	120000	20000	other	0
+elizaveta_mikhedova	75	Response	2	14733261	131959	1
+elizaveta_mikhedova	75	Response	5	14735661	134359	1
+elizaveta_mikhedova	75	Response	1	14737581	136279	1
+elizaveta_mikhedova	75	Response	4	14740221	138919	1
+elizaveta_mikhedova	75	Response	1	14809259	207957	1
+elizaveta_mikhedova	75	Response	4	14811019	209717	1
+elizaveta_mikhedova	75	Response	1	14811499	210197	1
+elizaveta_mikhedova	75	Response	4	14812779	211477	1
+elizaveta_mikhedova	75	Response	1	14813339	212037	1
+elizaveta_mikhedova	75	Response	4	14814538	213236	2
+elizaveta_mikhedova	75	Response	1	14815179	213877	1
+elizaveta_mikhedova	75	Response	4	14816299	214997	1
+elizaveta_mikhedova	75	Response	1	14817019	215717	1
+elizaveta_mikhedova	75	Response	4	14818059	216757	1
+elizaveta_mikhedova	75	Response	1	14818859	217557	1
+elizaveta_mikhedova	75	Response	4	14819739	218437	2
+elizaveta_mikhedova	75	Response	1	14822378	221076	2
+elizaveta_mikhedova	75	Response	4	14839818	238516	1
+elizaveta_mikhedova	75	Response	1	14842458	241156	1
+elizaveta_mikhedova	75	Response	4	14843898	242596	2
+elizaveta_mikhedova	75	Response	1	14861018	259716	1
+elizaveta_mikhedova	75	Response	4	14862457	261155	2
+elizaveta_mikhedova	75	Response	2	14869178	267876	1
+elizaveta_mikhedova	75	Response	5	14870697	269395	2
+elizaveta_mikhedova	75	Response	3	14883577	282275	1
+elizaveta_mikhedova	76	Picture	Your_decision: 3.2 Responder1: 3.4 Responder2: 1.1	14884124	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	77	Picture	UG	15014272	0	2	70080	3	0	70000	other	0
+elizaveta_mikhedova	77	Response	1	15055491	41219	1
+elizaveta_mikhedova	77	Response	4	15057331	43059	1
+elizaveta_mikhedova	77	Response	2	15060131	45859	1
+elizaveta_mikhedova	77	Response	5	15062131	47859	1
+elizaveta_mikhedova	77	Picture	Win	15134409	120137	1	20023	2	120000	20000	other	0
+elizaveta_mikhedova	77	Response	3	15214047	199775	1
+elizaveta_mikhedova	78	Picture	Your_decision: 2.9 Responder: 7.2	15254379	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	79	Picture	PC	15384528	0	1	70079	3	0	70000	other	0
+elizaveta_mikhedova	79	Picture	Win	15504665	120137	1	20022	2	120000	20000	other	0
+elizaveta_mikhedova	79	Response	2	15570593	186065	4
+elizaveta_mikhedova	79	Response	5	15578035	193507	2
+elizaveta_mikhedova	79	Response	2	15582435	197907	1
+elizaveta_mikhedova	79	Response	5	15584275	199747	1
+elizaveta_mikhedova	79	Response	2	15587395	202867	1
+elizaveta_mikhedova	79	Response	5	15589075	204547	1
+elizaveta_mikhedova	79	Response	3	15598435	213907	1
+elizaveta_mikhedova	80	Picture	Your_decision: 8 Proposer2: 7.4 Responder1: 5.4	15624635	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	81	Picture	RC	15754783	0	1	90102	3	0	90000	other	0
+elizaveta_mikhedova	81	Picture	Win	15934988	180205	1	20023	2	180000	20000	other	0
+elizaveta_mikhedova	81	Response	3	15998422	243639	1
+elizaveta_mikhedova	82	Picture	Your_decision: 6 Responder1: 2.8 Responder2: 2	16054958	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	83	Picture	UG	16185106	0	2	90103	3	0	90000	other	0
+elizaveta_mikhedova	83	Picture	Loss	16365312	180206	1	20023	2	180000	20000	other	0
+elizaveta_mikhedova	84	Picture	Miss	16415202	0	1	20023	2	0	20000	other	0
+elizaveta_mikhedova	85	Picture	PC	16525327	0	1	90103	2	0	90000	other	0
+elizaveta_mikhedova	85	Picture	Win	16705533	180206	1	20023	2	180000	20000	other	0
+elizaveta_mikhedova	85	Response	2	16767358	242031	1
+elizaveta_mikhedova	85	Response	5	16774238	248911	1
+elizaveta_mikhedova	85	Response	2	16776238	250911	1
+elizaveta_mikhedova	85	Response	5	16783117	257790	1
+elizaveta_mikhedova	85	Response	3	16814796	289469	2
+elizaveta_mikhedova	86	Picture	Your_decision: 8.3 Proposer2: 8.1 Responder1: 5	16825503	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	87	Picture	RC	16975674	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	87	Picture	Loss	17125845	150171	1	19856	2	150000	20000	other	0
+elizaveta_mikhedova	88	Picture	Miss	17145701	0	1	20023	2	0	20000	other	0
+elizaveta_mikhedova	89	Picture	UG	17275849	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	89	Picture	Win	17426020	150171	1	19856	2	150000	20000	other	0
+elizaveta_mikhedova	89	Response	2	17471736	195887	1
+elizaveta_mikhedova	89	Response	5	17478136	202287	1
+elizaveta_mikhedova	89	Response	3	17491256	215407	1
+elizaveta_mikhedova	90	Picture	Your_decision: 5.1 Responder: 0.1	17535979	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	91	Picture	PC	17686150	0	1	60068	3	0	60000	other	0
+elizaveta_mikhedova	91	Picture	Win	17836321	150171	1	19856	2	150000	20000	other	0
+elizaveta_mikhedova	91	Response	2	17866604	180454	1
+elizaveta_mikhedova	91	Response	5	17873803	187653	1
+elizaveta_mikhedova	91	Response	3	17884123	197973	1
+elizaveta_mikhedova	92	Picture	Your_decision: 7.9 Proposer2: 8.1 Responder1: 4	17946280	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	93	Picture	RC	18056405	0	1	90103	2	0	90000	other	0
+elizaveta_mikhedova	93	Picture	Win	18216588	160183	1	20023	2	160000	20000	other	0
+elizaveta_mikhedova	93	Response	1	18273311	216906	1
+elizaveta_mikhedova	93	Response	4	18298590	242185	1
+elizaveta_mikhedova	93	Response	1	18301470	245065	1
+elizaveta_mikhedova	93	Response	4	18304430	248025	2
+elizaveta_mikhedova	93	Response	2	18312590	256185	1
+elizaveta_mikhedova	93	Response	5	18314030	257625	1
+elizaveta_mikhedova	93	Response	3	18318909	262504	2
+elizaveta_mikhedova	94	Picture	Your_decision: 3 Responder1: 2.9 Responder2: 0	18319538	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	95	Picture	UG	18429664	0	1	90103	2	0	90000	other	0
+elizaveta_mikhedova	95	Picture	Win	18589846	160182	1	20023	2	160000	20000	other	0
+elizaveta_mikhedova	95	Response	3	18699858	270194	1
+elizaveta_mikhedova	96	Picture	Your_decision: 2.7 Responder: 0.1	18700472	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	97	Picture	PC	18810598	0	1	90103	2	0	90000	other	0
+elizaveta_mikhedova	97	Picture	Win	18970780	160182	1	20023	2	160000	20000	other	0
+elizaveta_mikhedova	97	Response	2	19027369	216771	2
+elizaveta_mikhedova	97	Response	5	19058326	247728	2
+elizaveta_mikhedova	97	Response	3	19063126	252528	2
+elizaveta_mikhedova	98	Picture	Your_decision: 8.3 Proposer2: 9.2 Responder1: 5.6	19070728	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	99	Picture	RC	19180853	0	1	90103	2	0	90000	other	0
+elizaveta_mikhedova	99	Picture	Win	19341036	160183	1	20022	2	160000	20000	other	0
+elizaveta_mikhedova	99	Response	1	19436875	256022	1
+elizaveta_mikhedova	99	Response	4	19453515	272662	1
+elizaveta_mikhedova	99	Response	1	19456475	275622	1
+elizaveta_mikhedova	99	Response	4	19461034	280181	2
+elizaveta_mikhedova	99	Response	2	19466634	285781	1
+elizaveta_mikhedova	99	Response	5	19468314	287461	1
+elizaveta_mikhedova	99	Response	3	19474313	293460	2
+elizaveta_mikhedova	100	Picture	Your_decision: 3 Responder1: 1.5 Responder2: 3.5	19481028	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	101	Picture	UG	19591154	0	1	90103	2	0	90000	other	0
+elizaveta_mikhedova	101	Picture	Win	19751336	160182	1	20023	2	160000	20000	other	0
+elizaveta_mikhedova	101	Response	1	19855662	264508	2
+elizaveta_mikhedova	101	Response	4	19857422	266268	1
+elizaveta_mikhedova	101	Response	1	19858459	267305	4
+elizaveta_mikhedova	101	Response	4	19859662	268508	1
+elizaveta_mikhedova	101	Response	1	19865581	274427	2
+elizaveta_mikhedova	101	Response	4	19867341	276187	2
+elizaveta_mikhedova	101	Response	3	19872380	281226	3
+elizaveta_mikhedova	102	Picture	Your_decision: 5.6 Responder: 0	19891329	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	103	Picture	PC	20001455	0	1	90102	2	0	90000	other	0
+elizaveta_mikhedova	103	Picture	Win	20161637	160182	1	20023	2	160000	20000	other	0
+elizaveta_mikhedova	103	Response	2	20273730	272275	1
+elizaveta_mikhedova	103	Response	5	20282369	280914	2
+elizaveta_mikhedova	103	Response	2	20285648	284193	2
+elizaveta_mikhedova	103	Response	5	20287328	285873	1
+elizaveta_mikhedova	103	Response	2	20288528	287073	1
+elizaveta_mikhedova	103	Response	5	20289889	288434	1
+elizaveta_mikhedova	103	Response	2	20290848	289393	1
+elizaveta_mikhedova	103	Response	5	20292209	290754	1
+elizaveta_mikhedova	103	Response	2	20293088	291633	1
+elizaveta_mikhedova	103	Response	5	20294849	293394	1
+elizaveta_mikhedova	103	Response	1	20303568	302113	1
+elizaveta_mikhedova	103	Response	4	20305728	304273	2
+elizaveta_mikhedova	103	Response	2	20311247	309792	1
+elizaveta_mikhedova	103	Response	5	20312687	311232	1
+elizaveta_mikhedova	103	Response	3	20326287	324832	1
+elizaveta_mikhedova	104	Picture	Your_decision: 9.2 Proposer2: 9.2 Responder1: 0.1	20326825	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	105	Picture	RC	20446962	0	1	50057	2	0	50000	other	0
+elizaveta_mikhedova	105	Picture	Win	20557088	110126	1	20023	2	110000	20000	other	0
+elizaveta_mikhedova	105	Response	1	20628997	182035	1
+elizaveta_mikhedova	105	Response	4	20639317	192355	1
+elizaveta_mikhedova	105	Response	3	20650837	203875	1
+elizaveta_mikhedova	106	Picture	Your_decision: 2.9 Responder1: 1 Responder2: 3.4	20677058	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	107	Picture	UG	20797195	0	1	50057	2	0	50000	other	0
+elizaveta_mikhedova	107	Picture	Win	20907320	110125	1	20023	2	110000	20000	other	0
+elizaveta_mikhedova	107	Response	3	20997466	200271	1
+elizaveta_mikhedova	108	Picture	Your_decision: 4.4 Responder: 0.1	21027290	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	109	Picture	PC	21147427	0	1	50057	2	0	50000	other	0
+elizaveta_mikhedova	109	Picture	Loss	21257553	110126	1	20022	2	110000	20000	other	0
+elizaveta_mikhedova	110	Picture	Miss	21317454	0	1	20023	2	0	20000	other	0
+elizaveta_mikhedova	111	Picture	RC	21407557	0	1	90102	2	0	90000	other	0
+elizaveta_mikhedova	111	Picture	Loss	21587762	180205	1	20023	2	180000	20000	other	0
+elizaveta_mikhedova	112	Picture	Miss	21647664	0	1	20022	3	0	20000	other	0
+elizaveta_mikhedova	113	Picture	UG	21737766	0	1	90103	2	0	90000	other	0
+elizaveta_mikhedova	113	Picture	Win	21917972	180206	1	20022	3	180000	20000	other	0
+elizaveta_mikhedova	113	Response	2	22004955	267189	1
+elizaveta_mikhedova	113	Response	5	22006555	268789	2
+elizaveta_mikhedova	113	Response	2	22007674	269908	2
+elizaveta_mikhedova	113	Response	5	22008875	271109	1
+elizaveta_mikhedova	113	Response	3	22015994	278228	2
+elizaveta_mikhedova	114	Picture	Your_decision: 4.1 Responder: 0.1	22027930	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	115	Picture	PC	22138056	0	1	90102	2	0	90000	other	0
+elizaveta_mikhedova	115	Picture	Win	22318261	180205	1	20023	2	180000	20000	other	0
+elizaveta_mikhedova	115	Response	2	22413022	274966	1
+elizaveta_mikhedova	115	Response	5	22418221	280165	2
+elizaveta_mikhedova	115	Response	2	22420462	282406	2
+elizaveta_mikhedova	115	Response	5	22426302	288246	1
+elizaveta_mikhedova	115	Response	2	22431342	293286	1
+elizaveta_mikhedova	115	Response	5	22436862	298806	1
+elizaveta_mikhedova	115	Response	3	22446221	308165	1
+elizaveta_mikhedova	116	Picture	Your_decision: 9.3 Proposer2: 8.7 Responder1: 6.3	22446741	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	117	Picture	RC	22566878	0	1	80091	2	0	80000	other	0
+elizaveta_mikhedova	117	Picture	Win	22697026	130148	1	20023	2	130000	20000	other	0
+elizaveta_mikhedova	117	Response	1	22774771	207893	1
+elizaveta_mikhedova	117	Response	4	22800130	233252	1
+elizaveta_mikhedova	117	Response	1	22801890	235012	1
+elizaveta_mikhedova	117	Response	4	22807649	240771	2
+elizaveta_mikhedova	117	Response	2	22813010	246132	1
+elizaveta_mikhedova	117	Response	5	22814850	247972	1
+elizaveta_mikhedova	117	Response	3	22850128	283250	1
+elizaveta_mikhedova	118	Picture	Your_decision: 3 Responder1: 3 Responder2: 0.1	22850701	0	1	60068	3	0	60000	other	0
+elizaveta_mikhedova	119	Picture	UG	22970838	0	1	80091	2	0	80000	other	0
+elizaveta_mikhedova	119	Picture	Loss	23100986	130148	1	20023	2	130000	20000	other	0
+elizaveta_mikhedova	120	Picture	Miss	23170899	0	1	20023	2	0	20000	other	0
+elizaveta_mikhedova	121	Picture	PC	23271013	0	1	80091	3	0	80000	other	0
+elizaveta_mikhedova	121	Picture	Win	23401162	130149	1	20022	2	130000	20000	other	0
+elizaveta_mikhedova	121	Response	2	23478587	207574	3
+elizaveta_mikhedova	121	Response	5	23504668	233655	1
+elizaveta_mikhedova	121	Response	2	23517466	246453	3
+elizaveta_mikhedova	121	Response	5	23519546	248533	2
+elizaveta_mikhedova	121	Response	2	23522667	251654	2
+elizaveta_mikhedova	121	Response	5	23524348	253335	1
+elizaveta_mikhedova	121	Response	1	23530825	259812	3
+elizaveta_mikhedova	121	Response	4	23532747	261734	1
+elizaveta_mikhedova	121	Response	1	23550107	279094	1
+elizaveta_mikhedova	121	Response	4	23551547	280534	1
+elizaveta_mikhedova	121	Response	3	23562586	291573	1
+elizaveta_mikhedova	122	Picture	Your_decision: 9.1 Proposer2: 8 Responder1: 0.1	23563179	0	2	60069	3	0	60000	other	0
+elizaveta_mikhedova	123	Picture	RC	23703339	0	1	80091	2	0	80000	other	0
+elizaveta_mikhedova	123	Picture	Loss	23843499	140160	1	20023	2	140000	20000	other	0
+elizaveta_mikhedova	124	Picture	Miss	23873366	0	1	20023	2	0	20000	other	0
+elizaveta_mikhedova	125	Picture	UG	23993503	0	1	80091	2	0	80000	other	0
+elizaveta_mikhedova	125	Picture	Win	24133663	140160	1	20023	2	140000	20000	other	0
+elizaveta_mikhedova	125	Response	1	24182327	188824	1
+elizaveta_mikhedova	125	Response	4	24190966	197463	2
+elizaveta_mikhedova	125	Response	3	24195526	202023	1
+elizaveta_mikhedova	126	Picture	Your_decision: 4.5 Responder: 4	24243621	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	127	Picture	PC	24383781	0	1	80091	2	0	80000	other	0
+elizaveta_mikhedova	127	Picture	Win	24523941	140160	1	20023	2	140000	20000	other	0
+elizaveta_mikhedova	127	Response	2	24578074	194293	2
+elizaveta_mikhedova	127	Response	5	24594154	210373	1
+elizaveta_mikhedova	127	Response	3	24596234	212453	1
+elizaveta_mikhedova	128	Picture	Your_decision: 9 Proposer2: 8 Responder1: 7	24633899	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	129	Picture	RC	24754036	0	1	80092	2	0	80000	other	0
+elizaveta_mikhedova	129	Picture	Win	24924230	170194	1	19856	2	170000	20000	other	0
+elizaveta_mikhedova	129	Response	1	24975663	221627	1
+elizaveta_mikhedova	129	Response	4	24989342	235306	1
+elizaveta_mikhedova	129	Response	1	24994301	240265	2
+elizaveta_mikhedova	129	Response	4	25000461	246425	1
+elizaveta_mikhedova	129	Response	1	25002701	248665	1
+elizaveta_mikhedova	129	Response	4	25005981	251945	1
+elizaveta_mikhedova	129	Response	3	25019501	265465	1
+elizaveta_mikhedova	130	Picture	Your_decision: 1.2 Responder1: 2 Responder2: 0	25020006	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	131	Picture	UG	25140143	0	1	80091	2	0	80000	other	0
+elizaveta_mikhedova	131	Picture	Win	25310337	170194	1	19856	2	170000	20000	other	0
+elizaveta_mikhedova	131	Response	3	25354051	213908	1
+elizaveta_mikhedova	132	Picture	Your_decision: 3.8 Responder: 0	25390261	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	133	Picture	PC	25510398	0	1	80091	2	0	80000	other	0
+elizaveta_mikhedova	133	Picture	Win	25680592	170194	1	19856	2	170000	20000	other	0
+elizaveta_mikhedova	133	Response	2	25710919	200521	1
+elizaveta_mikhedova	133	Response	5	25734278	223880	1
+elizaveta_mikhedova	133	Response	2	25735719	225321	1
+elizaveta_mikhedova	133	Response	5	25737399	227001	1
+elizaveta_mikhedova	133	Response	2	25738277	227879	2
+elizaveta_mikhedova	133	Response	5	25739478	229080	1
+elizaveta_mikhedova	133	Response	2	25740758	230360	1
+elizaveta_mikhedova	133	Response	5	25741878	231480	1
+elizaveta_mikhedova	133	Response	2	25748438	238040	1
+elizaveta_mikhedova	133	Response	5	25750038	239640	1
+elizaveta_mikhedova	133	Response	3	25763318	252920	1
+elizaveta_mikhedova	134	Picture	Your_decision: 8.6 Proposer2: 9.3 Responder1: 0.1	25763854	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	135	Picture	RC	25904013	0	1	50057	2	0	50000	other	0
+elizaveta_mikhedova	135	Picture	Win	26024150	120137	1	20023	2	120000	20000	other	0
+elizaveta_mikhedova	135	Response	1	26100187	196174	1
+elizaveta_mikhedova	135	Response	4	26105147	201134	2
+elizaveta_mikhedova	135	Response	2	26106907	202894	2
+elizaveta_mikhedova	135	Response	5	26110907	206894	1
+elizaveta_mikhedova	135	Response	1	26111867	207854	1
+elizaveta_mikhedova	135	Response	4	26156185	252172	1
+elizaveta_mikhedova	135	Response	1	26159385	255372	1
+elizaveta_mikhedova	135	Response	4	26161306	257293	1
+elizaveta_mikhedova	135	Response	3	26173785	269772	1
+elizaveta_mikhedova	136	Picture	Your_decision: 0.3 Responder1: 0.1 Responder2: 1.3	26174321	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	137	Picture	UG	26314481	0	1	50057	2	0	50000	other	0
+elizaveta_mikhedova	137	Picture	Win	26434618	120137	1	20023	2	120000	20000	other	0
+elizaveta_mikhedova	137	Response	1	26523854	209373	1
+elizaveta_mikhedova	137	Response	4	26525454	210973	1
+elizaveta_mikhedova	137	Response	3	26538653	224172	1
+elizaveta_mikhedova	138	Picture	Your_decision: 3.6 Responder: 6.2	26584622	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	139	Picture	PC	26724782	0	1	50057	2	0	50000	other	0
+elizaveta_mikhedova	139	Picture	Win	26844919	120137	1	20022	2	120000	20000	other	0
+elizaveta_mikhedova	139	Response	1	26934162	209380	1
+elizaveta_mikhedova	139	Response	4	26936321	211539	1
+elizaveta_mikhedova	139	Response	3	26953041	228259	1
+elizaveta_mikhedova	140	Picture	Your_decision: 4.2 Proposer2: 9.3 Responder1: 2	26994923	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	141	Picture	RC	27105048	0	1	70080	2	0	70000	other	0
+elizaveta_mikhedova	141	Picture	Win	27225185	120137	1	20023	2	120000	20000	other	0
+elizaveta_mikhedova	141	Response	1	27350628	245580	1
+elizaveta_mikhedova	141	Response	4	27386947	281899	1
+elizaveta_mikhedova	141	Response	1	27389507	284459	1
+elizaveta_mikhedova	141	Response	4	27391427	286379	1
+elizaveta_mikhedova	141	Response	1	27394147	289099	1
+elizaveta_mikhedova	141	Response	4	27395507	290459	1
+elizaveta_mikhedova	141	Response	1	27405106	300058	1
+elizaveta_mikhedova	141	Response	4	27406467	301419	2
+elizaveta_mikhedova	141	Response	2	27441025	335977	1
+elizaveta_mikhedova	141	Response	5	27441905	336857	1
+elizaveta_mikhedova	141	Response	3	27451665	346617	1
+elizaveta_mikhedova	142	Picture	Your_decision: 0.2 Responder1: 0.1 Responder2: 3.8	27452277	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	143	Picture	UG	27562403	0	1	70080	2	0	70000	other	0
+elizaveta_mikhedova	143	Picture	Win	27682540	120137	1	20022	2	120000	20000	other	0
+elizaveta_mikhedova	143	Response	1	27835414	273011	1
+elizaveta_mikhedova	143	Response	4	27840933	278530	1
+elizaveta_mikhedova	143	Response	2	27846453	284050	1
+elizaveta_mikhedova	143	Response	5	27847728	285325	6
+elizaveta_mikhedova	143	Response	2	27859332	296929	1
+elizaveta_mikhedova	143	Response	5	27860292	297889	1
+elizaveta_mikhedova	143	Response	3	27864691	302288	2
+elizaveta_mikhedova	144	Picture	Your_decision: 5.1 Responder: 6	27865248	0	1	60068	2	0	60000	other	0
+elizaveta_mikhedova	145	Picture	PC	27975373	0	1	70080	2	0	70000	other	0
+elizaveta_mikhedova	145	Picture	Win	28095510	120137	1	20023	2	120000	20000	other	0
+elizaveta_mikhedova	145	Response	2	28223481	248108	1
+elizaveta_mikhedova	145	Response	5	28244840	269467	1
+elizaveta_mikhedova	145	Response	2	28247561	272188	1
+elizaveta_mikhedova	145	Response	5	28249961	274588	1
+elizaveta_mikhedova	145	Response	3	28258196	282823	5
+elizaveta_mikhedova	146	Picture	Your_decision: 9.6 Proposer2: 8.3 Responder1: 0.8	28265537	0	1	60069	2	0	60000	other	0
+elizaveta_mikhedova	147	Picture	The End	28385674	0	1	20023	2	0	20000	other	0
