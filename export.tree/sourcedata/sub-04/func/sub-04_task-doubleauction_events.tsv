@@ -1,0 +1,700 @@
+Scenario - fish market
+Logfile written - 03/21/2015 13:34:49
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+darya_pozdeeva	1	Picture	instruction	166	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	2	Pulse	8	207496	147261	2
+darya_pozdeeva	2	Nothing	main_pulse	207497	147262	1			0		other	0
+darya_pozdeeva	2	Pulse	8	230296	170061	1
+darya_pozdeeva	2	Pulse	8	253095	192860	1
+darya_pozdeeva	2	Pulse	8	275894	215659	1
+darya_pozdeeva	3	Picture	UG	297672	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	3	Pulse	8	298693	1021	2
+darya_pozdeeva	3	Pulse	8	321493	23821	2
+darya_pozdeeva	3	Pulse	8	344292	46620	1
+darya_pozdeeva	3	Pulse	8	367091	69419	1
+darya_pozdeeva	3	Pulse	8	389891	92219	1
+darya_pozdeeva	3	Pulse	8	412690	115018	1
+darya_pozdeeva	3	Pulse	8	435489	137817	1
+darya_pozdeeva	3	Picture	Win	447843	150171	1	20023	2	150000	20000	other	0
+darya_pozdeeva	3	Pulse	8	458288	160616	2
+darya_pozdeeva	3	Pulse	8	481088	183416	1
+darya_pozdeeva	3	Pulse	8	503887	206215	2
+darya_pozdeeva	3	Response	2	523806	226134	1
+darya_pozdeeva	3	Response	5	526366	228694	1
+darya_pozdeeva	3	Pulse	8	526686	229014	1
+darya_pozdeeva	3	Response	2	527725	230053	2
+darya_pozdeeva	3	Response	5	528926	231254	1
+darya_pozdeeva	3	Response	2	529886	232214	1
+darya_pozdeeva	3	Response	5	531246	233574	1
+darya_pozdeeva	3	Response	2	532205	234533	1
+darya_pozdeeva	3	Response	5	533486	235814	1
+darya_pozdeeva	3	Response	2	535967	238295	1
+darya_pozdeeva	3	Response	5	537245	239573	1
+darya_pozdeeva	3	Response	2	539165	241493	1
+darya_pozdeeva	3	Response	5	540525	242853	1
+darya_pozdeeva	3	Response	2	547325	249653	1
+darya_pozdeeva	3	Response	5	549485	251813	2
+darya_pozdeeva	3	Pulse	8	549486	251814	1
+darya_pozdeeva	3	Response	2	552605	254933	1
+darya_pozdeeva	3	Response	5	554045	256373	1
+darya_pozdeeva	3	Response	3	561642	263970	4
+darya_pozdeeva	3	Pulse	8	572285	274613	1
+darya_pozdeeva	3	Pulse	8	595084	297412	1
+darya_pozdeeva	4	Picture	Your_decision: 6.1 Responder: 4.5	607692	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	4	Pulse	8	617883	10191	2
+darya_pozdeeva	4	Pulse	8	640683	32991	1
+darya_pozdeeva	4	Pulse	8	663483	55791	1
+darya_pozdeeva	4	Pulse	8	686281	78589	1
+darya_pozdeeva	4	Pulse	8	709081	101389	1
+darya_pozdeeva	4	Pulse	8	731880	124188	1
+darya_pozdeeva	4	Pulse	8	754679	146987	1
+darya_pozdeeva	5	Picture	PC	757863	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	5	Pulse	8	777479	19616	1
+darya_pozdeeva	5	Pulse	8	800278	42415	1
+darya_pozdeeva	5	Pulse	8	823077	65214	1
+darya_pozdeeva	5	Pulse	8	845876	88013	1
+darya_pozdeeva	5	Pulse	8	868676	110813	1
+darya_pozdeeva	5	Pulse	8	891475	133612	1
+darya_pozdeeva	5	Picture	Win	908034	150171	1	20023	2	150000	20000	other	0
+darya_pozdeeva	5	Pulse	8	914274	156411	1
+darya_pozdeeva	5	Pulse	8	937073	179210	2
+darya_pozdeeva	5	Pulse	8	959873	202010	1
+darya_pozdeeva	5	Pulse	8	982672	224809	1
+darya_pozdeeva	5	Response	2	985231	227368	1
+darya_pozdeeva	5	Response	5	992751	234888	1
+darya_pozdeeva	5	Response	2	996111	238248	1
+darya_pozdeeva	5	Response	5	998271	240408	1
+darya_pozdeeva	5	Response	2	1000031	242168	1
+darya_pozdeeva	5	Response	5	1001071	243208	1
+darya_pozdeeva	5	Response	2	1002989	245126	3
+darya_pozdeeva	5	Response	5	1004831	246968	2
+darya_pozdeeva	5	Pulse	8	1005471	247608	1
+darya_pozdeeva	5	Response	3	1011551	253688	1
+darya_pozdeeva	5	Pulse	8	1028271	270408	1
+darya_pozdeeva	5	Pulse	8	1051070	293207	1
+darya_pozdeeva	6	Picture	Your_decision: 6.3 Proposer2: 5.9 Responder1: 8	1067883	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	6	Pulse	8	1073869	5986	2
+darya_pozdeeva	6	Pulse	8	1096669	28786	1
+darya_pozdeeva	6	Pulse	8	1119468	51585	1
+darya_pozdeeva	6	Pulse	8	1142267	74384	1
+darya_pozdeeva	6	Pulse	8	1165066	97183	2
+darya_pozdeeva	6	Pulse	8	1187866	119983	1
+darya_pozdeeva	6	Pulse	8	1210665	142782	2
+darya_pozdeeva	7	Picture	RC	1218054	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	7	Pulse	8	1233464	15410	1
+darya_pozdeeva	7	Pulse	8	1256263	38209	2
+darya_pozdeeva	7	Pulse	8	1279063	61009	1
+darya_pozdeeva	7	Pulse	8	1301862	83808	1
+darya_pozdeeva	7	Pulse	8	1324661	106607	2
+darya_pozdeeva	7	Pulse	8	1347461	129407	1
+darya_pozdeeva	7	Picture	Win	1368225	150171	1	20023	2	150000	20000	other	0
+darya_pozdeeva	7	Pulse	8	1370260	152206	2
+darya_pozdeeva	7	Pulse	8	1393059	175005	2
+darya_pozdeeva	7	Pulse	8	1415859	197805	1
+darya_pozdeeva	7	Pulse	8	1438662	220608	1
+darya_pozdeeva	7	Response	2	1452897	234843	1
+darya_pozdeeva	7	Response	5	1455537	237483	1
+darya_pozdeeva	7	Pulse	8	1461457	243403	2
+darya_pozdeeva	7	Response	2	1466496	248442	1
+darya_pozdeeva	7	Response	5	1468657	250603	1
+darya_pozdeeva	7	Response	3	1476896	258842	1
+darya_pozdeeva	7	Pulse	8	1484256	266202	2
+darya_pozdeeva	7	Pulse	8	1507056	289002	1
+darya_pozdeeva	8	Picture	Your_decision: 3.9 Responder1: 2.5 Responder2: 4.1	1528074	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	8	Pulse	8	1529855	1781	1
+darya_pozdeeva	8	Pulse	8	1552654	24580	1
+darya_pozdeeva	8	Pulse	8	1575454	47380	1
+darya_pozdeeva	8	Pulse	8	1598253	70179	1
+darya_pozdeeva	8	Pulse	8	1621052	92978	1
+darya_pozdeeva	8	Pulse	8	1643851	115777	2
+darya_pozdeeva	8	Pulse	8	1666651	138577	1
+darya_pozdeeva	9	Picture	UG	1668233	0	1	90103	2	0	90000	other	0
+darya_pozdeeva	9	Pulse	8	1689450	21217	1
+darya_pozdeeva	9	Pulse	8	1712249	44016	2
+darya_pozdeeva	9	Pulse	8	1735049	66816	1
+darya_pozdeeva	9	Pulse	8	1757848	89615	1
+darya_pozdeeva	9	Pulse	8	1780647	112414	1
+darya_pozdeeva	9	Pulse	8	1803445	135212	2
+darya_pozdeeva	9	Picture	Win	1808393	140160	1	20023	2	140000	20000	other	0
+darya_pozdeeva	9	Pulse	8	1826246	158013	1
+darya_pozdeeva	9	Pulse	8	1849045	180812	1
+darya_pozdeeva	9	Pulse	8	1871844	203611	1
+darya_pozdeeva	9	Pulse	8	1894644	226411	1
+darya_pozdeeva	9	Response	2	1900323	232090	1
+darya_pozdeeva	9	Response	5	1906083	237850	1
+darya_pozdeeva	9	Response	2	1908562	240329	2
+darya_pozdeeva	9	Response	5	1910082	241849	2
+darya_pozdeeva	9	Response	2	1911122	242889	2
+darya_pozdeeva	9	Response	5	1912482	244249	1
+darya_pozdeeva	9	Response	2	1913762	245529	1
+darya_pozdeeva	9	Response	5	1915042	246809	2
+darya_pozdeeva	9	Response	2	1916002	247769	2
+darya_pozdeeva	9	Response	5	1917520	249287	4
+darya_pozdeeva	9	Pulse	8	1917523	249290	2
+darya_pozdeeva	9	Response	2	1921762	253529	1
+darya_pozdeeva	9	Response	5	1923360	255127	4
+darya_pozdeeva	9	Response	2	1930962	262729	1
+darya_pozdeeva	9	Response	5	1932242	264009	1
+darya_pozdeeva	9	Response	3	1937602	269369	1
+darya_pozdeeva	9	Pulse	8	1940321	272088	2
+darya_pozdeeva	9	Pulse	8	1963042	294809	1
+darya_pozdeeva	10	Picture	Your_decision: 5.8 Responder: 4.9	1968409	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	10	Pulse	8	1985841	17432	1
+darya_pozdeeva	10	Pulse	8	2008640	40231	1
+darya_pozdeeva	10	Pulse	8	2031519	63110	2
+darya_pozdeeva	10	Pulse	8	2054239	85830	1
+darya_pozdeeva	10	Pulse	8	2077038	108629	1
+darya_pozdeeva	10	Pulse	8	2099837	131428	2
+darya_pozdeeva	11	Picture	PC	2108568	0	1	90103	2	0	90000	other	0
+darya_pozdeeva	11	Pulse	8	2122717	14149	1
+darya_pozdeeva	11	Pulse	8	2145436	36868	1
+darya_pozdeeva	11	Pulse	8	2168235	59667	2
+darya_pozdeeva	11	Pulse	8	2191034	82466	2
+darya_pozdeeva	11	Pulse	8	2213914	105346	1
+darya_pozdeeva	11	Pulse	8	2236633	128065	1
+darya_pozdeeva	11	Picture	Loss	2248728	140160	1	20023	2	140000	20000	other	0
+darya_pozdeeva	12	Picture	Miss	2328652	0	1	20023	2	0	20000	other	0
+darya_pozdeeva	13	Picture	RC	2448789	0	1	90103	2	0	90000	other	0
+darya_pozdeeva	13	Picture	Win	2588949	140160	1	20023	2	140000	20000	other	0
+darya_pozdeeva	13	Response	1	2681898	233109	2
+darya_pozdeeva	13	Response	4	2684858	236069	1
+darya_pozdeeva	13	Response	3	2691578	242789	2
+darya_pozdeeva	14	Picture	Your_decision: 3.3 Responder1: 2 Responder2: 3.5	2748965	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	15	Picture	UG	2899136	0	1	90102	2	0	90000	other	0
+darya_pozdeeva	15	Picture	Win	3069330	170194	1	20022	2	170000	20000	other	0
+darya_pozdeeva	15	Response	1	3163483	264347	2
+darya_pozdeeva	15	Response	4	3165883	266747	1
+darya_pozdeeva	15	Response	1	3170683	271547	1
+darya_pozdeeva	15	Response	4	3172280	273144	4
+darya_pozdeeva	15	Response	3	3191082	291946	2
+darya_pozdeeva	16	Picture	Your_decision: 5.8 Responder: 0.1	3239190	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	17	Picture	PC	3389361	0	1	90103	2	0	90000	other	0
+darya_pozdeeva	17	Picture	Win	3559555	170194	1	20023	2	170000	20000	other	0
+darya_pozdeeva	17	Response	1	3652828	263467	1
+darya_pozdeeva	17	Response	4	3654508	265147	2
+darya_pozdeeva	17	Response	2	3663788	274427	1
+darya_pozdeeva	17	Response	5	3666025	276664	4
+darya_pozdeeva	17	Response	1	3672987	283626	2
+darya_pozdeeva	17	Response	4	3674668	285307	1
+darya_pozdeeva	17	Response	3	3687788	298427	1
+darya_pozdeeva	18	Picture	Your_decision: 7.3 Proposer2: 6.3 Responder1: 5	3729415	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	19	Picture	RC	3879586	0	1	90103	2	0	90000	other	0
+darya_pozdeeva	19	Picture	Win	4049780	170194	1	20023	2	170000	20000	other	0
+darya_pozdeeva	19	Response	1	4142575	262989	1
+darya_pozdeeva	19	Response	4	4144413	264827	2
+darya_pozdeeva	19	Response	1	4148813	269227	1
+darya_pozdeeva	19	Response	4	4150813	271227	1
+darya_pozdeeva	19	Response	1	4167372	287786	1
+darya_pozdeeva	19	Response	4	4168732	289146	1
+darya_pozdeeva	19	Response	2	4175852	296266	1
+darya_pozdeeva	19	Response	5	4177613	298027	2
+darya_pozdeeva	19	Response	1	4182652	303066	1
+darya_pozdeeva	19	Response	4	4184252	304666	1
+darya_pozdeeva	19	Response	3	4191931	312345	1
+darya_pozdeeva	20	Picture	Your_decision: 3.3 Responder1: 2.2 Responder2: 5.2	4219640	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	21	Picture	UG	4369811	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	21	Response	2	4499282	129471	1
+darya_pozdeeva	21	Response	5	4501602	131791	1
+darya_pozdeeva	21	Picture	Win	4519982	150171	1	20023	2	150000	20000	other	0
+darya_pozdeeva	21	Response	2	4620959	251148	1
+darya_pozdeeva	21	Response	5	4624798	254987	1
+darya_pozdeeva	21	Response	2	4631838	262027	1
+darya_pozdeeva	21	Response	5	4634238	264427	1
+darya_pozdeeva	21	Response	3	4664397	294586	1
+darya_pozdeeva	22	Picture	Your_decision: 5.8 Responder: 3.9	4699854	0	1	60068	3	0	60000	other	0
+darya_pozdeeva	23	Picture	PC	4850025	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	23	Picture	Win	5000196	150171	1	20023	2	150000	20000	other	0
+darya_pozdeeva	23	Response	2	5103661	253636	3
+darya_pozdeeva	23	Response	5	5106303	256278	1
+darya_pozdeeva	23	Response	2	5115023	264998	1
+darya_pozdeeva	23	Response	5	5117342	267317	2
+darya_pozdeeva	23	Response	2	5120062	270037	2
+darya_pozdeeva	23	Response	5	5121823	271798	1
+darya_pozdeeva	23	Response	2	5127341	277316	2
+darya_pozdeeva	23	Response	5	5128942	278917	1
+darya_pozdeeva	23	Response	2	5135502	285477	1
+darya_pozdeeva	23	Response	5	5136862	286837	1
+darya_pozdeeva	23	Response	3	5148382	298357	2
+darya_pozdeeva	24	Picture	Your_decision: 6.7 Proposer2: 8.1 Responder1: 0.1	5180068	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	25	Picture	RC	5330239	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	25	Picture	Win	5480410	150171	1	20023	2	150000	20000	other	0
+darya_pozdeeva	25	Response	1	5588528	258289	1
+darya_pozdeeva	25	Response	4	5589892	259653	2
+darya_pozdeeva	25	Response	2	5616367	286128	1
+darya_pozdeeva	25	Response	5	5618048	287809	1
+darya_pozdeeva	25	Response	1	5624767	294528	2
+darya_pozdeeva	25	Response	4	5626127	295888	1
+darya_pozdeeva	25	Response	3	5639326	309087	1
+darya_pozdeeva	26	Picture	Your_decision: 3.4 Responder1: 3.5 Responder2: 0.1	5660282	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	27	Picture	UG	5780419	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	27	Picture	Win	5890544	110125	1	20023	2	110000	20000	other	0
+darya_pozdeeva	27	Response	2	6021234	240815	1
+darya_pozdeeva	27	Response	5	6027314	246895	1
+darya_pozdeeva	27	Response	2	6032834	252415	1
+darya_pozdeeva	27	Response	5	6039474	259055	1
+darya_pozdeeva	27	Response	2	6043553	263134	2
+darya_pozdeeva	27	Response	5	6044994	264575	2
+darya_pozdeeva	27	Response	2	6046673	266254	2
+darya_pozdeeva	27	Response	5	6048273	267854	2
+darya_pozdeeva	27	Response	2	6049473	269054	2
+darya_pozdeeva	27	Response	5	6050673	270254	2
+darya_pozdeeva	27	Response	3	6064274	283855	1
+darya_pozdeeva	28	Picture	Your_decision: 5.3 Responder: 5	6070582	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	29	Picture	PC	6190719	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	29	Picture	Loss	6300845	110126	1	20023	2	110000	20000	other	0
+darya_pozdeeva	30	Picture	Miss	6420815	0	1	20023	2	0	20000	other	0
+darya_pozdeeva	31	Picture	RC	6520929	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	31	Picture	Win	6631054	110125	1	20023	2	110000	20000	other	0
+darya_pozdeeva	31	Response	1	6770011	249082	1
+darya_pozdeeva	31	Response	4	6790490	269561	1
+darya_pozdeeva	31	Response	1	6792011	271082	1
+darya_pozdeeva	31	Response	4	6793370	272441	1
+darya_pozdeeva	31	Response	1	6794730	273801	1
+darya_pozdeeva	31	Response	4	6795690	274761	1
+darya_pozdeeva	31	Response	1	6796970	276041	1
+darya_pozdeeva	31	Response	4	6798090	277161	2
+darya_pozdeeva	31	Response	1	6799130	278201	1
+darya_pozdeeva	31	Response	4	6800410	279481	1
+darya_pozdeeva	31	Response	1	6803530	282601	1
+darya_pozdeeva	31	Response	4	6804891	283962	1
+darya_pozdeeva	31	Response	1	6808330	287401	1
+darya_pozdeeva	31	Response	4	6809850	288921	1
+darya_pozdeeva	31	Response	1	6813609	292680	2
+darya_pozdeeva	31	Response	4	6814570	293641	1
+darya_pozdeeva	31	Response	3	6822490	301561	1
+darya_pozdeeva	32	Picture	Your_decision: 3.2 Responder1: 3.6 Responder2: 2	6823107	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	33	Picture	UG	6943243	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	33	Picture	Loss	7083403	140160	1	20023	2	140000	20000	other	0
+darya_pozdeeva	34	Picture	Miss	7193362	0	1	20023	2	0	20000	other	0
+darya_pozdeeva	35	Picture	PC	7293476	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	35	Picture	Win	7433635	140159	2	20023	3	140000	20000	other	0
+darya_pozdeeva	35	Response	1	7558787	265311	1
+darya_pozdeeva	35	Response	4	7560226	266750	1
+darya_pozdeeva	35	Response	2	7564866	271390	1
+darya_pozdeeva	35	Response	5	7566465	272989	3
+darya_pozdeeva	35	Response	1	7573506	280030	1
+darya_pozdeeva	35	Response	4	7575346	281870	1
+darya_pozdeeva	35	Response	1	7583346	289870	1
+darya_pozdeeva	35	Response	4	7584626	291150	1
+darya_pozdeeva	35	Response	2	7588066	294590	2
+darya_pozdeeva	35	Response	5	7590145	296669	2
+darya_pozdeeva	35	Response	3	7595906	302430	1
+darya_pozdeeva	36	Picture	Your_decision: 7.3 Proposer2: 6.9 Responder1: 2	7603496	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	37	Picture	RC	7723633	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	37	Picture	Win	7863792	140159	1	20023	2	140000	20000	other	0
+darya_pozdeeva	37	Response	1	7979254	255621	1
+darya_pozdeeva	37	Response	4	8005492	281859	1
+darya_pozdeeva	37	Response	3	8018053	294420	1
+darya_pozdeeva	38	Picture	Your_decision: 2.7 Responder1: 3.9 Responder2: 4.9	8033652	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	39	Picture	UG	8143778	0	1	70080	2	0	70000	other	0
+darya_pozdeeva	39	Picture	Win	8263915	120137	1	20023	2	120000	20000	other	0
+darya_pozdeeva	39	Response	2	8372201	228423	1
+darya_pozdeeva	39	Response	5	8374522	230744	1
+darya_pozdeeva	39	Response	3	8385881	242103	2
+darya_pozdeeva	40	Picture	Your_decision: 5 Responder: 8	8413919	0	1	60068	3	0	60000	other	0
+darya_pozdeeva	41	Picture	PC	8524045	0	1	70079	2	0	70000	other	0
+darya_pozdeeva	41	Picture	Win	8644181	120136	1	20023	2	120000	20000	other	0
+darya_pozdeeva	41	Response	2	8758509	234464	1
+darya_pozdeeva	41	Response	5	8761069	237024	1
+darya_pozdeeva	41	Response	2	8764986	240941	4
+darya_pozdeeva	41	Response	5	8766667	242622	3
+darya_pozdeeva	41	Response	2	8774588	250543	2
+darya_pozdeeva	41	Response	5	8775789	251744	1
+darya_pozdeeva	41	Response	3	8780188	256143	2
+darya_pozdeeva	42	Picture	Your_decision: 7.2 Proposer2: 7.6 Responder1: 4	8794186	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	43	Picture	RC	8904311	0	1	70080	2	0	70000	other	0
+darya_pozdeeva	43	Picture	Win	9024448	120137	1	20023	2	120000	20000	other	0
+darya_pozdeeva	43	Response	1	9132098	227787	1
+darya_pozdeeva	43	Response	4	9140577	236266	1
+darya_pozdeeva	43	Response	1	9142416	238105	2
+darya_pozdeeva	43	Response	4	9143857	239546	1
+darya_pozdeeva	43	Response	1	9144817	240506	1
+darya_pozdeeva	43	Response	4	9146177	241866	1
+darya_pozdeeva	43	Response	1	9147057	242746	1
+darya_pozdeeva	43	Response	4	9148177	243866	1
+darya_pozdeeva	43	Response	1	9149217	244906	1
+darya_pozdeeva	43	Response	4	9150337	246026	1
+darya_pozdeeva	43	Response	1	9151697	247386	1
+darya_pozdeeva	43	Response	4	9152017	247706	1
+darya_pozdeeva	43	Response	1	9152897	248586	1
+darya_pozdeeva	43	Response	4	9155297	250986	1
+darya_pozdeeva	43	Response	2	9166256	261945	1
+darya_pozdeeva	43	Response	5	9167615	263304	3
+darya_pozdeeva	43	Response	3	9173776	269465	2
+darya_pozdeeva	44	Picture	Your_decision: 3.7 Responder1: 0.5 Responder2: 4	9174452	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	45	Picture	UG	9324623	0	1	70080	2	0	70000	other	0
+darya_pozdeeva	45	Picture	Win	9464783	140160	1	20023	2	140000	20000	other	0
+darya_pozdeeva	45	Response	2	9521126	196503	1
+darya_pozdeeva	45	Response	5	9528165	203542	1
+darya_pozdeeva	45	Response	2	9533364	208741	4
+darya_pozdeeva	45	Response	5	9535525	210902	1
+darya_pozdeeva	45	Response	2	9540726	216103	2
+darya_pozdeeva	45	Response	5	9541684	217061	2
+darya_pozdeeva	45	Response	3	9546164	221541	2
+darya_pozdeeva	46	Picture	Your_decision: 5.7 Responder: 3.5	9604776	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	47	Picture	PC	9754947	0	1	70080	2	0	70000	other	0
+darya_pozdeeva	47	Picture	Win	9895107	140160	1	20022	3	140000	20000	other	0
+darya_pozdeeva	47	Response	2	9950073	195126	2
+darya_pozdeeva	47	Response	5	9952792	197845	1
+darya_pozdeeva	47	Response	2	9954552	199605	2
+darya_pozdeeva	47	Response	5	9956152	201205	1
+darya_pozdeeva	47	Response	2	9959432	204485	1
+darya_pozdeeva	47	Response	5	9960873	205926	1
+darya_pozdeeva	47	Response	3	9966151	211204	2
+darya_pozdeeva	48	Picture	Your_decision: 7.7 Proposer2: 7.2 Responder1: 5	10035099	0	2	60069	3	0	60000	other	0
+darya_pozdeeva	49	Picture	RC	10185271	0	1	70079	2	0	70000	other	0
+darya_pozdeeva	49	Picture	Loss	10325430	140159	1	20023	2	140000	20000	other	0
+darya_pozdeeva	50	Picture	Miss	10375320	0	2	20023	3	0	20000	other	0
+darya_pozdeeva	51	Picture	UG	10495457	0	1	90103	2	0	90000	other	0
+darya_pozdeeva	51	Picture	Loss	10655640	160183	1	20023	2	160000	20000	other	0
+darya_pozdeeva	52	Picture	Miss	10735564	0	1	20023	2	0	20000	other	0
+darya_pozdeeva	53	Picture	PC	10855701	0	1	90103	2	0	90000	other	0
+darya_pozdeeva	53	Picture	Win	11015884	160183	1	20022	2	160000	20000	other	0
+darya_pozdeeva	53	Response	2	11102756	247055	1
+darya_pozdeeva	53	Response	5	11123395	267694	1
+darya_pozdeeva	53	Response	2	11125235	269534	1
+darya_pozdeeva	53	Response	5	11126756	271055	1
+darya_pozdeeva	53	Response	2	11127875	272174	1
+darya_pozdeeva	53	Response	5	11129235	273534	1
+darya_pozdeeva	53	Response	2	11130435	274734	1
+darya_pozdeeva	53	Response	5	11131555	275854	1
+darya_pozdeeva	53	Response	2	11135154	279453	2
+darya_pozdeeva	53	Response	5	11136275	280574	1
+darya_pozdeeva	53	Response	2	11139635	283934	2
+darya_pozdeeva	53	Response	5	11141235	285534	1
+darya_pozdeeva	53	Response	3	11153634	297933	1
+darya_pozdeeva	54	Picture	Your_decision: 7.7 Proposer2: 7.9 Responder1: 0	11175732	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	55	Picture	RC	11315892	0	1	90103	2	0	90000	other	0
+darya_pozdeeva	55	Picture	Win	11476075	160183	1	20022	2	160000	20000	other	0
+darya_pozdeeva	55	Response	1	11562502	246610	1
+darya_pozdeeva	55	Response	4	11569861	253969	2
+darya_pozdeeva	55	Response	3	11580181	264289	1
+darya_pozdeeva	56	Picture	Your_decision: 4.1 Responder1: 3.2 Responder2: 4.8	11635923	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	57	Picture	UG	11776083	0	1	70080	2	0	70000	other	0
+darya_pozdeeva	57	Picture	Win	11916243	140160	1	20023	2	140000	20000	other	0
+darya_pozdeeva	57	Response	2	12037367	261284	1
+darya_pozdeeva	57	Response	5	12039767	263684	1
+darya_pozdeeva	57	Response	1	12043687	267604	1
+darya_pozdeeva	57	Response	4	12050406	274323	2
+darya_pozdeeva	57	Response	1	12052966	276883	1
+darya_pozdeeva	57	Response	4	12054565	278482	2
+darya_pozdeeva	57	Response	1	12055526	279443	1
+darya_pozdeeva	57	Response	4	12056566	280483	1
+darya_pozdeeva	57	Response	3	12063447	287364	1
+darya_pozdeeva	58	Picture	Your_decision: 6 Responder: 5	12106126	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	59	Picture	PC	12246285	0	2	70080	3	0	70000	other	0
+darya_pozdeeva	59	Picture	Loss	12386445	140160	1	20023	2	140000	20000	other	0
+darya_pozdeeva	60	Picture	Miss	12496404	0	1	20023	2	0	20000	other	0
+darya_pozdeeva	61	Picture	RC	12616541	0	1	70080	2	0	70000	other	0
+darya_pozdeeva	61	Picture	Win	12756700	140159	1	20023	2	140000	20000	other	0
+darya_pozdeeva	61	Response	1	12872621	256080	1
+darya_pozdeeva	61	Response	4	12889580	273039	1
+darya_pozdeeva	61	Response	2	12906140	289599	1
+darya_pozdeeva	61	Response	5	12907180	290639	1
+darya_pozdeeva	61	Response	3	12912940	296399	1
+darya_pozdeeva	62	Picture	Your_decision: 3.8 Responder1: 0.2 Responder2: 0.1	12946583	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	63	Picture	UG	13066720	0	1	50057	2	0	50000	other	0
+darya_pozdeeva	63	Picture	Win	13176846	110126	1	20023	2	110000	20000	other	0
+darya_pozdeeva	63	Response	2	13281490	214770	1
+darya_pozdeeva	63	Response	5	13284609	217889	1
+darya_pozdeeva	63	Response	3	13287329	220609	2
+darya_pozdeeva	64	Picture	Your_decision: 5.4 Responder: 3	13326850	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	65	Picture	PC	13446987	0	1	50057	2	0	50000	other	0
+darya_pozdeeva	65	Picture	Win	13557112	110125	1	20023	2	110000	20000	other	0
+darya_pozdeeva	65	Response	2	13664037	217050	2
+darya_pozdeeva	65	Response	5	13668516	221529	1
+darya_pozdeeva	65	Response	2	13672116	225129	1
+darya_pozdeeva	65	Response	5	13673716	226729	1
+darya_pozdeeva	65	Response	3	13680836	233849	2
+darya_pozdeeva	66	Picture	Your_decision: 7.9 Proposer2: 7.5 Responder1: 5.8	13707117	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	67	Picture	RC	13827253	0	2	50057	4	0	50000	other	0
+darya_pozdeeva	67	Picture	Win	13937379	110126	1	20023	2	110000	20000	other	0
+darya_pozdeeva	67	Response	1	14032585	205332	1
+darya_pozdeeva	67	Response	4	14039464	212211	1
+darya_pozdeeva	67	Response	1	14042104	214851	1
+darya_pozdeeva	67	Response	4	14043784	216531	1
+darya_pozdeeva	67	Response	1	14048105	220852	1
+darya_pozdeeva	67	Response	4	14049384	222131	1
+darya_pozdeeva	67	Response	3	14054424	227171	1
+darya_pozdeeva	68	Picture	Your_decision: 3.6 Responder1: 1 Responder2: 2	14087383	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	69	Picture	UG	14227543	0	1	50057	2	0	50000	other	0
+darya_pozdeeva	69	Picture	Win	14327657	100114	1	20023	2	100000	20000	other	0
+darya_pozdeeva	69	Response	2	14491689	264146	4
+darya_pozdeeva	69	Response	5	14495529	267986	3
+darya_pozdeeva	69	Response	3	14500410	272867	1
+darya_pozdeeva	70	Picture	Your_decision: 5.6 Responder: 0	14557586	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	71	Picture	PC	14697745	0	1	50057	2	0	50000	other	0
+darya_pozdeeva	71	Picture	Win	14797859	100114	1	20023	2	100000	20000	other	0
+darya_pozdeeva	71	Response	2	14954397	256652	2
+darya_pozdeeva	71	Response	5	14960396	262651	1
+darya_pozdeeva	71	Response	3	14961836	264091	2
+darya_pozdeeva	72	Picture	Your_decision: 7.5 Proposer2: 7.3 Responder1: 9	15027788	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	73	Picture	RC	15167948	0	1	50057	2	0	50000	other	0
+darya_pozdeeva	73	Picture	Win	15268062	100114	1	20023	2	100000	20000	other	0
+darya_pozdeeva	73	Response	1	15390542	222594	1
+darya_pozdeeva	73	Response	4	15392382	224434	1
+darya_pozdeeva	73	Response	1	15395262	227314	1
+darya_pozdeeva	73	Response	4	15397422	229474	1
+darya_pozdeeva	73	Response	1	15423661	255713	1
+darya_pozdeeva	73	Response	4	15445580	277632	2
+darya_pozdeeva	73	Response	1	15447900	279952	2
+darya_pozdeeva	73	Response	4	15449420	281472	2
+darya_pozdeeva	73	Response	1	15450618	282670	4
+darya_pozdeeva	73	Response	4	15451980	284032	1
+darya_pozdeeva	73	Response	1	15458302	290354	1
+darya_pozdeeva	73	Response	4	15459820	291872	1
+darya_pozdeeva	73	Response	2	15474700	306752	1
+darya_pozdeeva	73	Response	5	15476460	308512	1
+darya_pozdeeva	73	Response	3	15482219	314271	2
+darya_pozdeeva	74	Picture	Your_decision: 3.2 Responder1: 3 Responder2: 3.5	15497990	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	75	Picture	UG	15638150	0	1	90103	2	0	90000	other	0
+darya_pozdeeva	75	Picture	Win	15798333	160183	1	20022	2	160000	20000	other	0
+darya_pozdeeva	75	Response	1	15884047	245897	1
+darya_pozdeeva	75	Response	4	15885727	247577	1
+darya_pozdeeva	75	Response	1	15890605	252455	3
+darya_pozdeeva	75	Response	4	15892047	253897	1
+darya_pozdeeva	75	Response	1	15896366	258216	2
+darya_pozdeeva	75	Response	4	15897886	259736	2
+darya_pozdeeva	75	Response	1	15903566	265416	1
+darya_pozdeeva	75	Response	4	15904846	266696	1
+darya_pozdeeva	75	Response	1	15907725	269575	2
+darya_pozdeeva	75	Response	4	15909326	271176	1
+darya_pozdeeva	75	Response	3	15916926	278776	1
+darya_pozdeeva	76	Picture	Your_decision: 5.9 Responder: 2	15948170	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	77	Picture	PC	16088330	0	1	90102	2	0	90000	other	0
+darya_pozdeeva	77	Picture	Win	16248512	160182	1	20023	2	160000	20000	other	0
+darya_pozdeeva	77	Response	2	16325553	237223	1
+darya_pozdeeva	77	Response	5	16352192	263862	1
+darya_pozdeeva	77	Response	2	16357072	268742	1
+darya_pozdeeva	77	Response	5	16358433	270103	1
+darya_pozdeeva	77	Response	3	16364912	276582	1
+darya_pozdeeva	78	Picture	Your_decision: 7.8 Proposer2: 8 Responder1: 3.5	16398350	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	79	Picture	RC	16538509	0	1	90103	2	0	90000	other	0
+darya_pozdeeva	79	Picture	Win	16698692	160183	1	20023	2	160000	20000	other	0
+darya_pozdeeva	79	Response	1	16774659	236150	1
+darya_pozdeeva	79	Response	4	16783139	244630	1
+darya_pozdeeva	79	Response	3	16796258	257749	2
+darya_pozdeeva	80	Picture	Your_decision: 3.4 Responder1: 4.6 Responder2: 0.1	16848529	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	81	Picture	UG	16998700	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	81	Picture	Loss	17148871	150171	1	20023	2	150000	20000	other	0
+darya_pozdeeva	82	Picture	Miss	17228796	0	1	20023	2	0	20000	other	0
+darya_pozdeeva	83	Picture	PC	17358944	0	1	60068	3	0	60000	other	0
+darya_pozdeeva	83	Picture	Win	17509115	150171	1	20023	2	150000	20000	other	0
+darya_pozdeeva	83	Response	2	17595114	236170	1
+darya_pozdeeva	83	Response	5	17613273	254329	1
+darya_pozdeeva	83	Response	2	17620713	261769	1
+darya_pozdeeva	83	Response	5	17622633	263689	1
+darya_pozdeeva	83	Response	3	17631752	272808	1
+darya_pozdeeva	84	Picture	Your_decision: 7.9 Proposer2: 8.5 Responder1: 3.8	17678975	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	85	Picture	RC	17829146	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	85	Picture	Win	17979318	150172	1	20022	2	150000	20000	other	0
+darya_pozdeeva	85	Response	1	18069179	240033	1
+darya_pozdeeva	85	Response	4	18083418	254272	1
+darya_pozdeeva	85	Response	2	18097178	268032	1
+darya_pozdeeva	85	Response	5	18099098	269952	1
+darya_pozdeeva	85	Response	1	18101578	272432	1
+darya_pozdeeva	85	Response	4	18103418	274272	1
+darya_pozdeeva	85	Response	2	18115897	286751	1
+darya_pozdeeva	85	Response	5	18117337	288191	1
+darya_pozdeeva	85	Response	1	18124857	295711	1
+darya_pozdeeva	85	Response	4	18126537	297391	1
+darya_pozdeeva	85	Response	3	18131576	302430	2
+darya_pozdeeva	86	Picture	Your_decision: 3.5 Responder1: 3.6 Responder2: 3.5	18149178	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	87	Picture	UG	18259303	0	1	80091	2	0	80000	other	0
+darya_pozdeeva	87	Picture	Win	18409474	150171	1	20023	2	150000	20000	other	0
+darya_pozdeeva	87	Response	2	18489006	229703	1
+darya_pozdeeva	87	Response	5	18494366	235063	1
+darya_pozdeeva	87	Response	3	18497965	238662	2
+darya_pozdeeva	88	Picture	Your_decision: 6.2 Responder: 6.7	18529444	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	89	Picture	PC	18639570	0	1	80091	2	0	80000	other	0
+darya_pozdeeva	89	Picture	Win	18789741	150171	1	20023	2	150000	20000	other	0
+darya_pozdeeva	89	Response	2	18864114	224544	1
+darya_pozdeeva	89	Response	5	18872514	232944	1
+darya_pozdeeva	89	Response	2	18874196	234626	1
+darya_pozdeeva	89	Response	5	18876195	236625	2
+darya_pozdeeva	89	Response	2	18877154	237584	1
+darya_pozdeeva	89	Response	5	18878673	239103	2
+darya_pozdeeva	89	Response	1	18884034	244464	1
+darya_pozdeeva	89	Response	4	18886033	246463	1
+darya_pozdeeva	89	Response	3	18892594	253024	1
+darya_pozdeeva	90	Picture	Your_decision: 8.1 Proposer2: 9.2 Responder1: 0	18909711	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	91	Picture	RC	19019836	0	1	80092	2	0	80000	other	0
+darya_pozdeeva	91	Picture	Loss	19170007	150171	2	20023	3	150000	20000	other	0
+darya_pozdeeva	92	Picture	Miss	19239920	0	2	20023	3	0	20000	other	0
+darya_pozdeeva	93	Picture	UG	19360057	0	1	90103	2	0	90000	other	0
+darya_pozdeeva	93	Picture	Win	19530251	170194	1	20023	2	170000	20000	other	0
+darya_pozdeeva	93	Response	2	19624970	264913	1
+darya_pozdeeva	93	Response	5	19632250	272193	1
+darya_pozdeeva	93	Response	2	19635050	274993	1
+darya_pozdeeva	93	Response	5	19636971	276914	1
+darya_pozdeeva	93	Response	2	19640331	280274	1
+darya_pozdeeva	93	Response	5	19642170	282113	1
+darya_pozdeeva	93	Response	3	19653849	293792	1
+darya_pozdeeva	94	Picture	Your_decision: 5.9 Responder: 4.8	19690100	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	95	Picture	PC	19830260	0	1	90102	2	0	90000	other	0
+darya_pozdeeva	95	Picture	Win	20000454	170194	1	20022	3	170000	20000	other	0
+darya_pozdeeva	95	Response	2	20089277	259017	2
+darya_pozdeeva	95	Response	5	20096155	265895	2
+darya_pozdeeva	95	Response	3	20106556	276296	1
+darya_pozdeeva	96	Picture	Your_decision: 8.4 Proposer2: 8.6 Responder1: 6.4	20160302	0	2	60069	3	0	60000	other	0
+darya_pozdeeva	97	Picture	RC	20300462	0	1	90103	2	0	90000	other	0
+darya_pozdeeva	97	Picture	Win	20470656	170194	1	20023	2	170000	20000	other	0
+darya_pozdeeva	97	Response	3	20568623	268161	1
+darya_pozdeeva	98	Picture	Your_decision: 3.3 Responder1: 1 Responder2: 4	20630505	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	99	Picture	UG	20770665	0	1	90102	2	0	90000	other	0
+darya_pozdeeva	99	Picture	Win	20920836	150171	1	20022	3	150000	20000	other	0
+darya_pozdeeva	99	Response	2	21016047	245382	1
+darya_pozdeeva	99	Response	5	21032286	261621	1
+darya_pozdeeva	99	Response	3	21034446	263781	1
+darya_pozdeeva	100	Picture	Your_decision: 5.4 Responder: 3.5	21080684	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	101	Picture	PC	21220844	0	1	90103	2	0	90000	other	0
+darya_pozdeeva	101	Picture	Win	21371015	150171	1	20023	2	150000	20000	other	0
+darya_pozdeeva	101	Response	2	21461553	240709	1
+darya_pozdeeva	101	Response	5	21468273	247429	1
+darya_pozdeeva	101	Response	2	21470113	249269	1
+darya_pozdeeva	101	Response	5	21476512	255668	2
+darya_pozdeeva	101	Response	3	21482752	261908	1
+darya_pozdeeva	102	Picture	Your_decision: 8.6 Proposer2: 7.9 Responder1: 7	21530864	0	1	60068	3	0	60000	other	0
+darya_pozdeeva	103	Picture	RC	21671024	0	1	90102	2	0	90000	other	0
+darya_pozdeeva	103	Picture	Win	21821195	150171	1	20023	2	150000	20000	other	0
+darya_pozdeeva	103	Response	1	21908339	237315	2
+darya_pozdeeva	103	Response	3	21932738	261714	1
+darya_pozdeeva	103	Response	4	21946898	275874	1
+darya_pozdeeva	104	Picture	Your_decision: 3.2 Responder1: 3.1 Responder2: 0	21981044	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	105	Picture	UG	22091169	0	1	70080	2	0	70000	other	0
+darya_pozdeeva	105	Picture	Win	22251352	160183	1	9844	2	160000	20000	other	0
+darya_pozdeeva	105	Response	1	22273368	182199	1
+darya_pozdeeva	105	Response	4	22278168	186999	1
+darya_pozdeeva	105	Response	2	22282968	191799	1
+darya_pozdeeva	105	Response	5	22291127	199958	2
+darya_pozdeeva	105	Response	2	22294887	203718	1
+darya_pozdeeva	105	Response	5	22298887	207718	1
+darya_pozdeeva	105	Response	1	22308327	217158	1
+darya_pozdeeva	105	Response	4	22312806	221637	2
+darya_pozdeeva	105	Response	3	22314406	223237	1
+darya_pozdeeva	106	Picture	Your_decision: 5.6 Responder: 1	22314924	0	1	60068	3	0	60000	other	0
+darya_pozdeeva	107	Picture	PC	22425050	0	1	70079	2	0	70000	other	0
+darya_pozdeeva	107	Picture	Loss	22585232	160182	1	9845	2	160000	20000	other	0
+darya_pozdeeva	108	Picture	Miss	22595077	0	1	20022	2	0	20000	other	0
+darya_pozdeeva	109	Picture	RC	22685179	0	1	70080	2	0	70000	other	0
+darya_pozdeeva	109	Picture	Win	22845362	160183	1	9844	2	160000	20000	other	0
+darya_pozdeeva	109	Response	1	22864709	179530	1
+darya_pozdeeva	109	Response	4	22891668	206489	1
+darya_pozdeeva	109	Response	3	22892228	207049	1
+darya_pozdeeva	110	Picture	Your_decision: 2.7 Responder1: 1 Responder2: 3.5	22905263	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	111	Picture	UG	23055434	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	111	Picture	Win	23175571	120137	1	20023	2	120000	20000	other	0
+darya_pozdeeva	111	Response	1	23250697	195263	1
+darya_pozdeeva	111	Response	4	23255097	199663	1
+darya_pozdeeva	111	Response	1	23261017	205583	1
+darya_pozdeeva	111	Response	4	23262377	206943	1
+darya_pozdeeva	111	Response	3	23267176	211742	2
+darya_pozdeeva	112	Picture	Your_decision: 5.6 Responder: 1	23325576	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	113	Picture	PC	23475747	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	113	Picture	Win	23595884	120137	1	20022	2	120000	20000	other	0
+darya_pozdeeva	113	Response	2	23663084	187337	1
+darya_pozdeeva	113	Response	5	23680684	204937	1
+darya_pozdeeva	113	Response	3	23682444	206697	1
+darya_pozdeeva	114	Picture	Your_decision: 8.2 Proposer2: 9.2 Responder1: 3	23745888	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	115	Picture	RC	23896059	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	115	Picture	Loss	24016196	120137	1	20023	2	120000	20000	other	0
+darya_pozdeeva	116	Picture	Miss	24076097	0	1	20023	2	0	20000	other	0
+darya_pozdeeva	117	Picture	UG	24206246	0	1	70079	3	0	70000	other	0
+darya_pozdeeva	117	Picture	Loss	24326382	120136	2	20023	3	120000	20000	other	0
+darya_pozdeeva	118	Picture	Miss	24446353	0	1	20022	2	0	20000	other	0
+darya_pozdeeva	119	Picture	PC	24576501	0	1	70080	2	0	70000	other	0
+darya_pozdeeva	119	Picture	Win	24696638	120137	1	20022	3	120000	20000	other	0
+darya_pozdeeva	119	Response	2	24825208	248707	1
+darya_pozdeeva	119	Response	5	24850647	274146	1
+darya_pozdeeva	119	Response	3	24854484	277983	5
+darya_pozdeeva	120	Picture	Your_decision: 8.6 Proposer2: 9.9 Responder1: 7.9	24906544	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	121	Picture	RC	25056715	0	1	70079	2	0	70000	other	0
+darya_pozdeeva	121	Picture	Win	25176851	120136	2	20023	3	120000	20000	other	0
+darya_pozdeeva	121	Response	1	25300793	244078	1
+darya_pozdeeva	121	Response	4	25325432	268717	2
+darya_pozdeeva	121	Response	3	25325832	269117	2
+darya_pozdeeva	122	Picture	Your_decision: 2.7 Responder1: 4.6 Responder2: 3	25386757	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	123	Picture	UG	25506894	0	1	80091	2	0	80000	other	0
+darya_pozdeeva	123	Picture	Win	25647054	140160	1	20023	2	140000	20000	other	0
+darya_pozdeeva	123	Response	2	25737340	230446	1
+darya_pozdeeva	123	Response	5	25753019	246125	1
+darya_pozdeeva	123	Response	3	25754379	247485	1
+darya_pozdeeva	124	Picture	Your_decision: 5.6 Responder: 6.8	25787047	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	125	Picture	PC	25907184	0	1	80091	2	0	80000	other	0
+darya_pozdeeva	125	Picture	Win	26047343	140159	1	20023	2	140000	20000	other	0
+darya_pozdeeva	125	Response	2	26130605	223421	5
+darya_pozdeeva	125	Response	3	26176046	268862	1
+darya_pozdeeva	125	Response	5	26176286	269102	1
+darya_pozdeeva	126	Picture	Your_decision: 9.4 Proposer2: 8.5 Responder1: 8	26187336	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	127	Picture	RC	26307473	0	1	80091	2	0	80000	other	0
+darya_pozdeeva	127	Picture	Loss	26447633	140160	1	20023	2	140000	20000	other	0
+darya_pozdeeva	128	Picture	Miss	26527557	0	1	20023	2	0	20000	other	0
+darya_pozdeeva	129	Picture	UG	26637683	0	1	70079	2	0	70000	other	0
+darya_pozdeeva	129	Picture	Win	26787854	150171	1	20022	3	150000	20000	other	0
+darya_pozdeeva	129	Response	1	26891784	254101	1
+darya_pozdeeva	129	Response	4	26897783	260100	2
+darya_pozdeeva	129	Response	1	26902183	264500	2
+darya_pozdeeva	129	Response	4	26903463	265780	2
+darya_pozdeeva	129	Response	3	26914903	277220	1
+darya_pozdeeva	130	Picture	Your_decision: 6 Responder: 5.8	26947702	0	2	60069	3	0	60000	other	0
+darya_pozdeeva	131	Picture	PC	27077851	0	1	70080	2	0	70000	other	0
+darya_pozdeeva	131	Picture	Win	27228022	150171	1	20023	2	150000	20000	other	0
+darya_pozdeeva	131	Response	2	27324890	247039	1
+darya_pozdeeva	131	Response	3	27364809	286958	2
+darya_pozdeeva	131	Response	5	27365369	287518	1
+darya_pozdeeva	132	Picture	Your_decision: 8.9 Proposer2: 8.7 Responder1: 7.9	27387871	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	133	Picture	RC	27518019	0	1	70080	2	0	70000	other	0
+darya_pozdeeva	133	Picture	Win	27668190	150171	1	20023	2	150000	20000	other	0
+darya_pozdeeva	133	Response	1	27764877	246858	1
+darya_pozdeeva	133	Response	4	27789756	271737	1
+darya_pozdeeva	133	Response	1	27800635	282616	1
+darya_pozdeeva	133	Response	4	27801835	283816	2
+darya_pozdeeva	133	Response	2	27811116	293097	1
+darya_pozdeeva	133	Response	5	27813595	295576	1
+darya_pozdeeva	133	Response	1	27817996	299977	1
+darya_pozdeeva	133	Response	4	27820235	302216	1
+darya_pozdeeva	133	Response	3	27824396	306377	1
+darya_pozdeeva	134	Picture	Your_decision: 3.2 Responder1: 1.9 Responder2: 3.5	27828039	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	135	Picture	UG	27938164	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	135	Picture	Win	28058301	120137	1	20023	2	120000	20000	other	0
+darya_pozdeeva	135	Response	2	28115826	177662	1
+darya_pozdeeva	135	Response	5	28130865	192701	1
+darya_pozdeeva	135	Response	3	28131185	193021	1
+darya_pozdeeva	136	Picture	Your_decision: 5.7 Responder: 6.3	28158248	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	137	Picture	PC	28268374	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	137	Picture	Win	28388511	120137	1	20023	2	120000	20000	other	0
+darya_pozdeeva	137	Response	2	28447895	179521	1
+darya_pozdeeva	137	Response	3	28468774	200400	2
+darya_pozdeeva	137	Response	5	28469174	200800	2
+darya_pozdeeva	138	Picture	Your_decision: 8.9 Proposer2: 9 Responder1: 0	28488458	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	139	Picture	RC	28598583	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	139	Picture	Win	28718720	120137	1	20023	2	120000	20000	other	0
+darya_pozdeeva	139	Response	2	28782365	183782	1
+darya_pozdeeva	139	Response	5	28786925	188342	1
+darya_pozdeeva	139	Response	1	28793164	194581	2
+darya_pozdeeva	139	Response	4	28795483	196900	3
+darya_pozdeeva	139	Response	3	28799244	200661	1
+darya_pozdeeva	140	Picture	Your_decision: 3.4 Responder1: 1 Responder2: 0	28818668	0	1	60068	2	0	60000	other	0
+darya_pozdeeva	141	Picture	UG	28938804	0	1	80092	2	0	80000	other	0
+darya_pozdeeva	141	Picture	Win	29098987	160183	1	20023	2	160000	20000	other	0
+darya_pozdeeva	141	Response	2	29180193	241389	1
+darya_pozdeeva	141	Response	5	29187632	248828	1
+darya_pozdeeva	141	Response	2	29195233	256429	2
+darya_pozdeeva	141	Response	5	29214271	275467	1
+darya_pozdeeva	141	Response	3	29215631	276827	2
+darya_pozdeeva	142	Picture	Your_decision: 7.5 Responder: 0	29216287	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	143	Picture	PC	29336424	0	1	80091	2	0	80000	other	0
+darya_pozdeeva	143	Picture	Win	29496607	160183	1	20022	2	160000	20000	other	0
+darya_pozdeeva	143	Response	2	29570981	234557	1
+darya_pozdeeva	143	Response	3	29607379	270955	1
+darya_pozdeeva	143	Response	5	29607619	271195	1
+darya_pozdeeva	144	Picture	Your_decision: 9.3 Proposer2: 8.3 Responder1: 7	29607900	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	145	Picture	RC	29728037	0	1	80091	2	0	80000	other	0
+darya_pozdeeva	145	Picture	Win	29888219	160182	2	20023	3	160000	20000	other	0
+darya_pozdeeva	145	Response	1	29952650	224613	1
+darya_pozdeeva	145	Response	4	29965288	237251	1
+darya_pozdeeva	145	Response	3	29965688	237651	1
+darya_pozdeeva	146	Picture	Your_decision: 3.4 Responder1: 1.7 Responder2: 0.1	29998178	0	1	60069	2	0	60000	other	0
+darya_pozdeeva	147	Picture	The End	30118315	0	1	20023	2	0	20000	other	0
